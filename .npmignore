@@ -4,3 +4,7 @@
 .github
 .prettierignore
 eslint.config.mjs
+
+temp/
+.vscode
+coverage/
