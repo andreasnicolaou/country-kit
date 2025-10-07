@@ -13,7 +13,10 @@
   "scripts": {
     "build": "tsc",
     "test": "jest",
+    "test:ci": "cross-env JEST_JUNIT_CLASSNAME=\"{filepath}\" jest --reporters=default --reporters=jest-junit",
+    "test:coverage": "jest --coverage",
     "format": "prettier --write .",
+    "format:check": "prettier --check .",
     "lint": "eslint --fix"
   },
   "repository": {
@@ -23,8 +26,12 @@
   "bugs": {
     "url": "https://github.com/andreasnicolaou/country-kit/issues"
   },
-  "author": "Andreas Nicolaou <anicolaou66@gmail.com>",
+  "author": {
+    "name": "Andreas Nicolaou",
+    "email": "anicolaou66@gmail.com"
+  },
   "license": "MIT",
+  "sideEffects": false,
   "keywords": [
     "country data",
     "ISO codes",
@@ -51,17 +58,20 @@
   },
   "devDependencies": {
     "@types/jest": "^30.0.0",
-    "@types/node": "^24.1.0",
-    "@typescript-eslint/eslint-plugin": "^8.41.0",
-    "@typescript-eslint/parser": "^8.32.1",
-    "eslint": "^9.34.0",
+    "@types/node": "^24.7.0",
+    "@typescript-eslint/eslint-plugin": "^8.46.0",
+    "@typescript-eslint/parser": "^8.46.0",
+    "eslint": "^9.37.0",
+    "cross-env": "^10.1.0",
+    "jest-junit": "^16.0.0",
     "eslint-config-prettier": "^10.1.8",
-    "eslint-plugin-prettier": "^5.5.3",
-    "jest": "^30.1.2",
+    "eslint-plugin-prettier": "^5.5.4",
+    "prettier-plugin-organize-imports": "^4.3.0",
+    "jest": "^30.2.0",
     "prettier": "3.6.2",
-    "terser": "^5.43.1",
-    "ts-jest": "^29.4.0",
+    "terser": "^5.44.0",
+    "ts-jest": "^29.4.4",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.3"
+    "typescript": "^5.9.3"
   }
 }

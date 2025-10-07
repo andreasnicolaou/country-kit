@@ -75,6 +75,7 @@ console.log(country); // Logs US country data
 | `latlng`        | `number[] \| null`                                                                                                                                                                                                                                                                                         | The latitude and longitude coordinates of the country.           |
 | `population`    | `number \| null`                                                                                                                                                                                                                                                                                           | The estimated population of the country.                         |
 | `area`          | `number \| null`                                                                                                                                                                                                                                                                                           | The total land area of the country in square kilometers.         |
+| `gdp`           | `number \| null`                                                                                                                                                                                                                                                                                           | The Gross Domestic Product of the country in USD.                |
 | `drives_on`     | `'left' \| 'right' \| null`                                                                                                                                                                                                                                                                                | The side of the road vehicles drive on in the country.           |
 | `demonym`       | `string \| null`                                                                                                                                                                                                                                                                                           | The demonym used for people from the country.                    |
 | `world_share`   | `string \| null`                                                                                                                                                                                                                                                                                           | The percentage of the world’s population living in this country. |
@@ -83,8 +84,11 @@ console.log(country); // Logs US country data
 
 Country data have been generated using the following sources:
 
-- **[REST Countries API](https://restcountries.com/v3.1/all)** - Providing detailed country information, including ISO codes, names, capitals, currencies, and languages.
-- **[Worldometer](https://www.worldometers.info/world-population/population-by-country/)** - Providing population, area, and demographic statistics.
+- **[REST Countries API](https://restcountries.com/v3.1/all)** - Providing detailed country information, including ISO codes, names, capitals, currencies, languages, and geographic data.
+- **[World Bank API](https://api.worldbank.org/v2/)** - Providing population, GDP, and area statistics with the following indicators:
+  - `SP.POP.TOTL` - Total population
+  - `NY.GDP.MKTP.CD` - GDP (current US$)
+  - `AG.SRF.TOTL.K2` - Surface area (sq. km)
 
 ## Contributing
 

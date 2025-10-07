@@ -1,4 +1,4 @@
-import countries, { CountryType, Country } from './countries';
+import countries, { Country, CountryType } from './countries';
 
 export class CountryKit {
   /**
