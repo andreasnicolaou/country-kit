@@ -363,7 +363,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southern Europe',
     tld: ['.ad'],
-    flag: 'https://flagcdn.com/ad.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ad.svg',
     emoji: '🇦🇩',
     currency: [
       {
@@ -379,9 +379,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Andorran',
     population: 81938,
-    world_share: 0.0010092781680172559,
-    gdp: 4039844390.22543,
-    area: 0,
+    world_share: 0.001009308937953543,
+    gdp: 4039842405.48117,
+    area: 470,
   },
   ae: {
     code: 'AE',
@@ -431,7 +431,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.ae', 'امارات.'],
-    flag: 'https://flagcdn.com/ae.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ae.svg',
     emoji: '🇦🇪',
     currency: [
       {
@@ -446,10 +446,10 @@ const countries: Record<string, Country> = {
     latlng: [24, 54],
     drives_on: 'right',
     demonym: 'Emirati',
-    population: 10876981,
-    world_share: 0.13397812318141156,
-    gdp: 537078829135.466,
-    area: 0,
+    population: 10986400,
+    world_share: 0.13533002655584472,
+    gdp: 552324846834.581,
+    area: 98647.9,
   },
   af: {
     code: 'AF',
@@ -499,7 +499,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Southern Asia',
     tld: ['.af'],
-    flag: 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/af.svg',
     emoji: '🇦🇫',
     currency: [
       {
@@ -515,9 +515,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Afghan',
     population: 42647492,
-    world_share: 0.5253140496020232,
-    gdp: 0,
-    area: 0,
+    world_share: 0.5253300648893336,
+    gdp: 17152234636.8715,
+    area: 652870,
   },
   ag: {
     code: 'AG',
@@ -567,7 +567,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.ag'],
-    flag: 'https://flagcdn.com/ag.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ag.svg',
     emoji: '🇦🇬',
     currency: [
       {
@@ -578,14 +578,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1268',
+    phone_code: '+1',
     latlng: [17.05, -61.8],
     drives_on: 'left',
     demonym: 'Antiguan, Barbudan',
     population: 93772,
-    world_share: 0.0011550444527730006,
-    gdp: 2224814814.81481,
-    area: 0,
+    world_share: 0.0011550796666965223,
+    gdp: 2207622874.07407,
+    area: 440,
   },
   ai: {
     code: 'AI',
@@ -635,7 +635,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.ai'],
-    flag: 'https://flagcdn.com/ai.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ai.svg',
     emoji: '🇦🇮',
     currency: [
       {
@@ -646,7 +646,7 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1264',
+    phone_code: '+1',
     latlng: [18.25, -63.16666666],
     drives_on: 'left',
     demonym: 'Anguillian',
@@ -703,7 +703,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southeast Europe',
     tld: ['.al'],
-    flag: 'https://flagcdn.com/al.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/al.svg',
     emoji: '🇦🇱',
     currency: [
       {
@@ -718,10 +718,10 @@ const countries: Record<string, Country> = {
     latlng: [41, 20],
     drives_on: 'right',
     demonym: 'Albanian',
-    population: 2714617,
-    world_share: 0.03343752193888671,
-    gdp: 27177735527.5667,
-    area: 0,
+    population: 2377128,
+    world_share: 0.029281365630838312,
+    gdp: 27046429296.6673,
+    area: 28750,
   },
   am: {
     code: 'AM',
@@ -743,7 +743,7 @@ const countries: Record<string, Country> = {
       fra: 'Arménie',
       grc: 'Αρμενία',
       hrv: 'Armenija',
-      hun: 'Örményország',
+      hun: 'Örm��nyország',
       idn: 'Armenia',
       ind: 'Armenia',
       ita: 'Armenia',
@@ -771,7 +771,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.am'],
-    flag: 'https://flagcdn.com/am.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/am.svg',
     emoji: '🇦🇲',
     currency: [
       {
@@ -787,9 +787,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Armenian',
     population: 3033500,
-    world_share: 0.03736538996168256,
-    gdp: 25786585949.6346,
-    area: 0,
+    world_share: 0.03736652912302073,
+    gdp: 25955275380.0321,
+    area: 29740,
   },
   ao: {
     code: 'AO',
@@ -839,7 +839,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Middle Africa',
     tld: ['.ao'],
-    flag: 'https://flagcdn.com/ao.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ao.svg',
     emoji: '🇦🇴',
     currency: [
       {
@@ -855,9 +855,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Angolan',
     population: 37885849,
-    world_share: 0.4666621137018036,
-    gdp: 80396942241.6233,
-    area: 0,
+    world_share: 0.4666763408633149,
+    gdp: 100998916781.079,
+    area: 1246700,
   },
   aq: {
     code: 'AQ',
@@ -900,19 +900,19 @@ const countries: Record<string, Country> = {
       tur: 'Antarktika',
       urd: 'انٹارکٹکا',
       usa: 'Antarctica',
-      vnm: 'Châu Nam Cực',
+      vnm: 'châu Nam Cực',
       zho: '南极洲',
     },
     capital: null,
     continent: 'Antarctic',
     subregion: '',
     tld: ['.aq'],
-    flag: 'https://flagcdn.com/aq.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/aq.svg',
     emoji: '🇦🇶',
     currency: [],
     languages: [],
     timezones: ['UTC-03:00', 'UTC+03:00', 'UTC+05:00', 'UTC+06:00', 'UTC+07:00', 'UTC+08:00', 'UTC+10:00', 'UTC+12:00'],
-    phone_code: '',
+    phone_code: '+672',
     latlng: [-90, 0],
     drives_on: 'right',
     demonym: 'Antarctican',
@@ -969,7 +969,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'South America',
     tld: ['.ar'],
-    flag: 'https://flagcdn.com/ar.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ar.svg',
     emoji: '🇦🇷',
     currency: [
       {
@@ -978,16 +978,16 @@ const countries: Record<string, Country> = {
         symbol: '$',
       },
     ],
-    languages: ['Guaraní', 'Spanish'],
+    languages: ['Guarani', 'Spanish'],
     timezones: ['UTC-03:00'],
     phone_code: '+54',
     latlng: [-34, -64],
     drives_on: 'right',
     demonym: 'Argentine',
     population: 45696159,
-    world_share: 0.5628662603547223,
-    gdp: 633266692533.689,
-    area: 0,
+    world_share: 0.5628834204989899,
+    gdp: 638365455340.04,
+    area: 2780400,
   },
   as: {
     code: 'AS',
@@ -1037,7 +1037,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Polynesia',
     tld: ['.as'],
-    flag: 'https://flagcdn.com/as.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/as.svg',
     emoji: '🇦🇸',
     currency: [
       {
@@ -1048,14 +1048,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English', 'Samoan'],
     timezones: ['UTC-11:00'],
-    phone_code: '+1684',
+    phone_code: '+1',
     latlng: [-14.33333333, -170],
     drives_on: 'right',
     demonym: 'American Samoan',
     population: 46765,
-    world_share: 0.0005760317987664694,
-    gdp: 0,
-    area: 0,
+    world_share: 0.0005760493602894558,
+    gdp: 871000000,
+    area: 200,
   },
   at: {
     code: 'AT',
@@ -1105,7 +1105,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Central Europe',
     tld: ['.at'],
-    flag: 'https://flagcdn.com/at.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/at.svg',
     emoji: '🇦🇹',
     currency: [
       {
@@ -1120,10 +1120,10 @@ const countries: Record<string, Country> = {
     latlng: [47.33333333, 13.33333333],
     drives_on: 'right',
     demonym: 'Austrian',
-    population: 9178482,
-    world_share: 0.11305671969219847,
-    gdp: 521642466921.745,
-    area: 0,
+    population: 9177982,
+    world_share: 0.11305400748098236,
+    gdp: 534790720466.822,
+    area: 83879,
   },
   au: {
     code: 'AU',
@@ -1173,7 +1173,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Australia and New Zealand',
     tld: ['.au'],
-    flag: 'https://flagcdn.com/au.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/au.svg',
     emoji: '🇦🇺',
     currency: [
       {
@@ -1188,10 +1188,10 @@ const countries: Record<string, Country> = {
     latlng: [-27, 133],
     drives_on: 'left',
     demonym: 'Australian',
-    population: 27204809,
-    world_share: 0.33509751017573475,
-    gdp: 1752193307380.34,
-    area: 0,
+    population: 27196812,
+    world_share: 0.3350092195982593,
+    gdp: 1757022451652.83,
+    area: 7741220,
   },
   aw: {
     code: 'AW',
@@ -1241,7 +1241,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.aw'],
-    flag: 'https://flagcdn.com/aw.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/aw.svg',
     emoji: '🇦🇼',
     currency: [
       {
@@ -1256,10 +1256,10 @@ const countries: Record<string, Country> = {
     latlng: [12.5, -69.96666666],
     drives_on: 'right',
     demonym: 'Aruban',
-    population: 107624,
-    world_share: 0.0013256676213074415,
-    gdp: 0,
-    area: 0,
+    population: 107995,
+    world_share: 0.0013302779998815308,
+    gdp: 4265650673.00236,
+    area: 180,
   },
   ax: {
     code: 'AX',
@@ -1309,7 +1309,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Northern Europe',
     tld: ['.ax'],
-    flag: 'https://flagcdn.com/ax.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ax.svg',
     emoji: '🇦🇽',
     currency: [
       {
@@ -1320,7 +1320,7 @@ const countries: Record<string, Country> = {
     ],
     languages: ['Swedish'],
     timezones: ['UTC+02:00'],
-    phone_code: '+35818',
+    phone_code: '+358',
     latlng: [60.116667, 19.9],
     drives_on: 'right',
     demonym: 'Ålandish',
@@ -1377,7 +1377,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.az'],
-    flag: 'https://flagcdn.com/az.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/az.svg',
     emoji: '🇦🇿',
     currency: [
       {
@@ -1392,10 +1392,10 @@ const countries: Record<string, Country> = {
     latlng: [40.5, 47.5],
     drives_on: 'right',
     demonym: 'Azerbaijani',
-    population: 10202850,
-    world_share: 0.1256744582068742,
+    population: 10202830,
+    world_share: 0.12567804329396062,
     gdp: 74315882352.9412,
-    area: 0,
+    area: 86600,
   },
   ba: {
     code: 'BA',
@@ -1445,7 +1445,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southeast Europe',
     tld: ['.ba'],
-    flag: 'https://flagcdn.com/ba.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ba.svg',
     emoji: '🇧🇦',
     currency: [
       {
@@ -1461,9 +1461,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Bosnian, Herzegovinian',
     population: 3164253,
-    world_share: 0.038975950974921354,
-    gdp: 28343394203.4694,
-    area: 0,
+    world_share: 0.038977139237549266,
+    gdp: 29613572022.8993,
+    area: 51210,
   },
   bb: {
     code: 'BB',
@@ -1513,7 +1513,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.bb'],
-    flag: 'https://flagcdn.com/bb.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bb.svg',
     emoji: '🇧🇧',
     currency: [
       {
@@ -1524,14 +1524,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1246',
+    phone_code: '+1',
     latlng: [13.16666666, -59.53333333],
     drives_on: 'left',
     demonym: 'Barbadian',
     population: 282467,
-    world_share: 0.003479310897084749,
-    gdp: 7165000000,
-    area: 0,
+    world_share: 0.003479416971086961,
+    gdp: 7498050000,
+    area: 430,
   },
   bd: {
     code: 'BD',
@@ -1581,7 +1581,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Southern Asia',
     tld: ['.bd'],
-    flag: 'https://flagcdn.com/bd.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bd.svg',
     emoji: '🇧🇩',
     currency: [
       {
@@ -1597,9 +1597,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Bangladeshi',
     population: 173562364,
-    world_share: 2.1378689347392434,
-    gdp: 450119424622.389,
-    area: 0,
+    world_share: 2.1379341121036175,
+    gdp: 450119432068.852,
+    area: 147570,
   },
   be: {
     code: 'BE',
@@ -1649,7 +1649,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Western Europe',
     tld: ['.be'],
-    flag: 'https://flagcdn.com/be.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/be.svg',
     emoji: '🇧🇪',
     currency: [
       {
@@ -1664,10 +1664,10 @@ const countries: Record<string, Country> = {
     latlng: [50.83333333, 4],
     drives_on: 'right',
     demonym: 'Belgian',
-    population: 11876844,
-    world_share: 0.14629401930907193,
-    gdp: 664564181486.953,
-    area: 0,
+    population: 11858610,
+    world_share: 0.14607387371799732,
+    gdp: 671370081636.406,
+    area: 30689,
   },
   bf: {
     code: 'BF',
@@ -1717,7 +1717,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.bf'],
-    flag: 'https://flagcdn.com/bf.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bf.svg',
     emoji: '🇧🇫',
     currency: [
       {
@@ -1733,9 +1733,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Burkinabe',
     population: 23548781,
-    world_share: 0.2900640795079153,
-    gdp: 23250214909.5391,
-    area: 0,
+    world_share: 0.2900729227124237,
+    gdp: 23124729853.0218,
+    area: 274200,
   },
   bg: {
     code: 'BG',
@@ -1785,13 +1785,13 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southeast Europe',
     tld: ['.bg'],
-    flag: 'https://flagcdn.com/bg.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bg.svg',
     emoji: '🇧🇬',
     currency: [
       {
-        code: 'BGN',
-        name: 'Bulgarian lev',
-        symbol: 'лв',
+        code: 'EUR',
+        name: 'Euro',
+        symbol: '€',
       },
     ],
     languages: ['Bulgarian'],
@@ -1800,10 +1800,10 @@ const countries: Record<string, Country> = {
     latlng: [43, 25],
     drives_on: 'right',
     demonym: 'Bulgarian',
-    population: 6444366,
-    world_share: 0.07937901718998135,
-    gdp: 112211952703.831,
-    area: 0,
+    population: 6441421,
+    world_share: 0.07934516083406537,
+    gdp: 113343355779.985,
+    area: 110996.758,
   },
   bh: {
     code: 'BH',
@@ -1853,7 +1853,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.bh'],
-    flag: 'https://flagcdn.com/bh.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bh.svg',
     emoji: '🇧🇭',
     currency: [
       {
@@ -1869,9 +1869,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Bahraini',
     population: 1588670,
-    world_share: 0.019568575595986893,
-    gdp: 47736702127.6596,
-    area: 0,
+    world_share: 0.01956917218456217,
+    gdp: 47109734308.5106,
+    area: 800,
   },
   bi: {
     code: 'BI',
@@ -1921,7 +1921,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.bi'],
-    flag: 'https://flagcdn.com/bi.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bi.svg',
     emoji: '🇧🇮',
     currency: [
       {
@@ -1930,16 +1930,16 @@ const countries: Record<string, Country> = {
         symbol: 'Fr',
       },
     ],
-    languages: ['French', 'Kirundi'],
+    languages: ['French', 'Rundi'],
     timezones: ['UTC+02:00'],
     phone_code: '+257',
     latlng: [-3.5, 30],
     drives_on: 'right',
     demonym: 'Burundian',
     population: 14047786,
-    world_share: 0.17303477896432004,
-    gdp: 2162378759.3467,
-    area: 0,
+    world_share: 0.17304005428810382,
+    gdp: 3082433067.32634,
+    area: 27830,
   },
   bj: {
     code: 'BJ',
@@ -1989,7 +1989,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.bj'],
-    flag: 'https://flagcdn.com/bj.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bj.svg',
     emoji: '🇧🇯',
     currency: [
       {
@@ -2005,9 +2005,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Beninese',
     population: 14462724,
-    world_share: 0.17814581248333128,
-    gdp: 21482643720.2743,
-    area: 0,
+    world_share: 0.17815124362756252,
+    gdp: 21482643706.4249,
+    area: 114760,
   },
   bl: {
     code: 'BL',
@@ -2057,7 +2057,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.bl'],
-    flag: 'https://flagcdn.com/bl.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bl.svg',
     emoji: '🇧🇱',
     currency: [
       {
@@ -2125,7 +2125,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'North America',
     tld: ['.bm'],
-    flag: 'https://flagcdn.com/bm.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bm.svg',
     emoji: '🇧🇲',
     currency: [
       {
@@ -2136,21 +2136,21 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1441',
+    phone_code: '+1',
     latlng: [32.33333333, -64.75],
     drives_on: 'left',
     demonym: 'Bermudian',
     population: 64636,
-    world_share: 0.0007961593359364806,
-    gdp: 8980200000,
-    area: 0,
+    world_share: 0.0007961836085035661,
+    gdp: 9233600000,
+    area: 4290,
   },
   bn: {
     code: 'BN',
     code3: 'BRN',
     numeric_code: '096',
     name: 'Brunei',
-    official_name: 'Nation of Brunei, Abode of Peace',
+    official_name: 'Nation of Brunei, the Abode of Peace',
     native_name: 'Negara Brunei Darussalam',
     translations: {
       ara: 'بروناي',
@@ -2193,7 +2193,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'South-Eastern Asia',
     tld: ['.bn'],
-    flag: 'https://flagcdn.com/bn.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bn.svg',
     emoji: '🇧🇳',
     currency: [
       {
@@ -2214,9 +2214,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Bruneian',
     population: 462721,
-    world_share: 0.005699604617919801,
-    gdp: 15463134387.2013,
-    area: 0,
+    world_share: 0.005699778382176784,
+    gdp: 15340808592.48,
+    area: 5770,
   },
   bo: {
     code: 'BO',
@@ -2266,7 +2266,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'South America',
     tld: ['.bo'],
-    flag: 'https://flagcdn.com/bo.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bo.svg',
     emoji: '🇧🇴',
     currency: [
       {
@@ -2275,16 +2275,16 @@ const countries: Record<string, Country> = {
         symbol: 'Bs.',
       },
     ],
-    languages: ['Aymara', 'Guaraní', 'Quechua', 'Spanish'],
+    languages: ['Aymara', 'Guarani', 'Quechua', 'Spanish'],
     timezones: ['UTC-04:00'],
     phone_code: '+591',
     latlng: [-17, -65],
     drives_on: 'right',
     demonym: 'Bolivian',
     population: 12413315,
-    world_share: 0.15290204572019236,
-    gdp: 49668296743.8495,
-    area: 0,
+    world_share: 0.15290670725588595,
+    gdp: 54881327452.9667,
+    area: 1098580,
   },
   bq: {
     code: 'BQ',
@@ -2334,7 +2334,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.bq', '.nl'],
-    flag: 'https://flagcdn.com/bq.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bq.svg',
     emoji: '🇧🇶',
     currency: [
       {
@@ -2402,7 +2402,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'South America',
     tld: ['.br'],
-    flag: 'https://flagcdn.com/br.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/br.svg',
     emoji: '🇧🇷',
     currency: [
       {
@@ -2418,9 +2418,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Brazilian',
     population: 211998573,
-    world_share: 2.6113101537712966,
-    gdp: 2179412080828.59,
-    area: 0,
+    world_share: 2.6113897649722553,
+    gdp: 2185821648943.86,
+    area: 8510420,
   },
   bs: {
     code: 'BS',
@@ -2470,7 +2470,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.bs'],
-    flag: 'https://flagcdn.com/bs.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bs.svg',
     emoji: '🇧🇸',
     currency: [
       {
@@ -2486,14 +2486,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-05:00'],
-    phone_code: '+1242',
+    phone_code: '+1',
     latlng: [25.0343, -77.3963],
     drives_on: 'left',
     demonym: 'Bahamian',
     population: 401283,
-    world_share: 0.004942836914453227,
+    world_share: 0.004942987607078664,
     gdp: 15832800000,
-    area: 0,
+    area: 13880,
   },
   bt: {
     code: 'BT',
@@ -2543,7 +2543,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Southern Asia',
     tld: ['.bt'],
-    flag: 'https://flagcdn.com/bt.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bt.svg',
     emoji: '🇧🇹',
     currency: [
       {
@@ -2564,9 +2564,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Bhutanese',
     population: 791524,
-    world_share: 0.00974966307039091,
-    gdp: 0,
-    area: 0,
+    world_share: 0.009749960309071984,
+    gdp: 3012896789.24928,
+    area: 38390,
   },
   bv: {
     code: 'BV',
@@ -2616,7 +2616,7 @@ const countries: Record<string, Country> = {
     continent: 'Antarctic',
     subregion: '',
     tld: ['.bv'],
-    flag: 'https://flagcdn.com/bv.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bv.svg',
     emoji: '🇧🇻',
     currency: [],
     languages: ['Norwegian'],
@@ -2624,7 +2624,7 @@ const countries: Record<string, Country> = {
     phone_code: '+47',
     latlng: [-54.4208, 3.3464],
     drives_on: 'right',
-    demonym: '',
+    demonym: null,
     population: null,
     world_share: null,
     gdp: null,
@@ -2678,7 +2678,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Southern Africa',
     tld: ['.bw'],
-    flag: 'https://flagcdn.com/bw.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bw.svg',
     emoji: '🇧🇼',
     currency: [
       {
@@ -2694,9 +2694,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Motswana',
     population: 2521139,
-    world_share: 0.031054340492041012,
-    gdp: 19400774882.4495,
-    area: 0,
+    world_share: 0.031055287247958915,
+    gdp: 19402063512.9066,
+    area: 581730,
   },
   by: {
     code: 'BY',
@@ -2746,7 +2746,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Eastern Europe',
     tld: ['.by'],
-    flag: 'https://flagcdn.com/by.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/by.svg',
     emoji: '🇧🇾',
     currency: [
       {
@@ -2761,10 +2761,10 @@ const countries: Record<string, Country> = {
     latlng: [53, 28],
     drives_on: 'right',
     demonym: 'Belarusian',
-    population: 9133712,
-    world_share: 0.11250526147278707,
+    population: 9132629,
+    world_share: 0.11249535107903204,
     gdp: 75961865471.9129,
-    area: 0,
+    area: 207629,
   },
   bz: {
     code: 'BZ',
@@ -2814,7 +2814,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Central America',
     tld: ['.bz'],
-    flag: 'https://flagcdn.com/bz.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/bz.svg',
     emoji: '🇧🇿',
     currency: [
       {
@@ -2823,16 +2823,16 @@ const countries: Record<string, Country> = {
         symbol: '$',
       },
     ],
-    languages: ['Belizean Creole', 'English', 'Spanish'],
+    languages: ['Belize Kriol', 'English', 'Spanish'],
     timezones: ['UTC-06:00'],
     phone_code: '+501',
     latlng: [17.25, -88.75],
     drives_on: 'right',
     demonym: 'Belizean',
     population: 417072,
-    world_share: 0.005137319242491798,
-    gdp: 3515783328.91079,
-    area: 0,
+    world_share: 0.005137475864313994,
+    gdp: 3203631800,
+    area: 22966,
   },
   ca: {
     code: 'CA',
@@ -2882,7 +2882,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'North America',
     tld: ['.ca'],
-    flag: 'https://flagcdn.com/ca.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ca.svg',
     emoji: '🇨🇦',
     currency: [
       {
@@ -2898,9 +2898,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Canadian',
     population: 41288599,
-    world_share: 0.5085757714213076,
-    gdp: 2241253230970.34,
-    area: 0,
+    world_share: 0.5085912764075242,
+    gdp: 2243636826633.76,
+    area: 15634410,
   },
   cc: {
     code: 'CC',
@@ -2950,7 +2950,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Australia and New Zealand',
     tld: ['.cc'],
-    flag: 'https://flagcdn.com/cc.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/cc.svg',
     emoji: '🇨🇨',
     currency: [
       {
@@ -2974,7 +2974,7 @@ const countries: Record<string, Country> = {
     code: 'CD',
     code3: 'COD',
     numeric_code: '180',
-    name: 'DR Congo',
+    name: 'DRC',
     official_name: 'Democratic Republic of the Congo',
     native_name: 'RD Congo',
     translations: {
@@ -3010,7 +3010,7 @@ const countries: Record<string, Country> = {
       tha: 'สาธารณรัฐประชาธิปไตยคองโก',
       tur: 'Kongo Demokratik Cumhuriyeti',
       urd: 'کانگو',
-      usa: 'DR Congo',
+      usa: 'DRC',
       vnm: 'Cộng hòa Dân chủ Congo',
       zho: '民主刚果',
     },
@@ -3018,7 +3018,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Middle Africa',
     tld: ['.cd'],
-    flag: 'https://flagcdn.com/cd.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/cd.svg',
     emoji: '🇨🇩',
     currency: [
       {
@@ -3027,16 +3027,16 @@ const countries: Record<string, Country> = {
         symbol: 'FC',
       },
     ],
-    languages: ['French', 'Kikongo', 'Lingala', 'Tshiluba', 'Swahili'],
+    languages: ['French', 'Kongo', 'Lingala', 'Luba-Lulua', 'Swahili'],
     timezones: ['UTC+01:00', 'UTC+02:00'],
     phone_code: '+243',
     latlng: [0, 25],
     drives_on: 'right',
     demonym: 'Congolese',
     population: 109276265,
-    world_share: 1.3460195336347993,
-    gdp: 70749355652.1207,
-    area: 0,
+    world_share: 1.3460605698293822,
+    gdp: 70962185790.7094,
+    area: 2344860,
   },
   cf: {
     code: 'CF',
@@ -3086,7 +3086,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Middle Africa',
     tld: ['.cf'],
-    flag: 'https://flagcdn.com/cf.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/cf.svg',
     emoji: '🇨🇫',
     currency: [
       {
@@ -3102,15 +3102,15 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Central African',
     population: 5330690,
-    world_share: 0.06566121991588647,
-    gdp: 2751544520.37918,
-    area: 0,
+    world_share: 0.06566322173423286,
+    gdp: 2751494281.06887,
+    area: 622980,
   },
   cg: {
     code: 'CG',
     code3: 'COG',
     numeric_code: '178',
-    name: 'Republic of the Congo',
+    name: 'Congo',
     official_name: 'Republic of the Congo',
     native_name: 'République du Congo',
     translations: {
@@ -3146,7 +3146,7 @@ const countries: Record<string, Country> = {
       tha: 'สาธารณรัฐคองโก',
       tur: 'Kongo Cumhuriyeti',
       urd: 'جمہوریہ کانگو',
-      usa: 'Republic of the Congo',
+      usa: 'Congo',
       vnm: 'Cộng hòa Congo',
       zho: '刚果',
     },
@@ -3154,7 +3154,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Middle Africa',
     tld: ['.cg'],
-    flag: 'https://flagcdn.com/cg.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/cg.svg',
     emoji: '🇨🇬',
     currency: [
       {
@@ -3163,16 +3163,16 @@ const countries: Record<string, Country> = {
         symbol: 'Fr',
       },
     ],
-    languages: ['French', 'Kikongo', 'Lingala'],
+    languages: ['French', 'Kongo', 'Lingala'],
     timezones: ['UTC+01:00'],
     phone_code: '+242',
     latlng: [-1, 15],
     drives_on: 'right',
     demonym: 'Congolese',
     population: 6332961,
-    world_share: 0.07800677678494385,
-    gdp: 15719985776.3966,
-    area: 0,
+    world_share: 0.07800915498317273,
+    gdp: 15719986076.6464,
+    area: 342000,
   },
   ch: {
     code: 'CH',
@@ -3222,7 +3222,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Western Europe',
     tld: ['.ch'],
-    flag: 'https://flagcdn.com/ch.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ch.svg',
     emoji: '🇨🇭',
     currency: [
       {
@@ -3237,10 +3237,10 @@ const countries: Record<string, Country> = {
     latlng: [47, 8],
     drives_on: 'right',
     demonym: 'Swiss',
-    population: 9034102,
-    world_share: 0.11127830696674348,
+    population: 9005582,
+    world_share: 0.1109303913211641,
     gdp: 936564198048.516,
-    area: 0,
+    area: 41290.7,
   },
   ci: {
     code: 'CI',
@@ -3290,7 +3290,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.ci'],
-    flag: 'https://flagcdn.com/ci.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ci.svg',
     emoji: '🇨🇮',
     currency: [
       {
@@ -3306,9 +3306,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Ivorian',
     population: 31934230,
-    world_share: 0.39335254889601523,
-    gdp: 86538413923.3943,
-    area: 0,
+    world_share: 0.3933645410635379,
+    gdp: 87113179149.284,
+    area: 322460,
   },
   ck: {
     code: 'CK',
@@ -3358,7 +3358,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Polynesia',
     tld: ['.ck'],
-    flag: 'https://flagcdn.com/ck.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ck.svg',
     emoji: '🇨🇰',
     currency: [
       {
@@ -3372,7 +3372,7 @@ const countries: Record<string, Country> = {
         symbol: '$',
       },
     ],
-    languages: ['English', 'Cook Islands Māori'],
+    languages: ['English', 'Cook Islands Maori'],
     timezones: ['UTC-10:00'],
     phone_code: '+682',
     latlng: [-21.23333333, -159.76666666],
@@ -3431,7 +3431,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'South America',
     tld: ['.cl'],
-    flag: 'https://flagcdn.com/cl.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/cl.svg',
     emoji: '🇨🇱',
     currency: [
       {
@@ -3447,9 +3447,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Chilean',
     population: 19764771,
-    world_share: 0.24345421985111407,
+    world_share: 0.24346164205747012,
     gdp: 330267137371.592,
-    area: 0,
+    area: 757244.88,
   },
   cm: {
     code: 'CM',
@@ -3499,7 +3499,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Middle Africa',
     tld: ['.cm'],
-    flag: 'https://flagcdn.com/cm.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/cm.svg',
     emoji: '🇨🇲',
     currency: [
       {
@@ -3515,9 +3515,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Cameroonian',
     population: 29123744,
-    world_share: 0.3587341525314695,
-    gdp: 51326764684.8595,
-    area: 0,
+    world_share: 0.35874508928544596,
+    gdp: 53296694320.2057,
+    area: 475440,
   },
   cn: {
     code: 'CN',
@@ -3567,7 +3567,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Eastern Asia',
     tld: ['.cn', '.中国', '.中國', '.公司', '.网络'],
-    flag: 'https://flagcdn.com/cn.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/cn.svg',
     emoji: '🇨🇳',
     currency: [
       {
@@ -3583,9 +3583,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Chinese',
     population: 1408975000,
-    world_share: 17.35516740440471,
+    world_share: 17.355696512644844,
     gdp: 18743803170827.2,
-    area: 0,
+    area: 9562910,
   },
   co: {
     code: 'CO',
@@ -3635,7 +3635,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'South America',
     tld: ['.co'],
-    flag: 'https://flagcdn.com/co.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/co.svg',
     emoji: '🇨🇴',
     currency: [
       {
@@ -3651,9 +3651,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Colombian',
     population: 52886363,
-    world_share: 0.651432199489072,
-    gdp: 418542042920.189,
-    area: 0,
+    world_share: 0.6514520597495124,
+    gdp: 418818154879.271,
+    area: 1140619.1,
   },
   cr: {
     code: 'CR',
@@ -3703,7 +3703,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Central America',
     tld: ['.cr'],
-    flag: 'https://flagcdn.com/cr.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/cr.svg',
     emoji: '🇨🇷',
     currency: [
       {
@@ -3719,9 +3719,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Costa Rican',
     population: 5129910,
-    world_share: 0.06318809547332618,
-    gdp: 95350423176.664,
-    area: 0,
+    world_share: 0.06319002189334935,
+    gdp: 95350423176.5962,
+    area: 51100,
   },
   cu: {
     code: 'CU',
@@ -3771,7 +3771,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.cu'],
-    flag: 'https://flagcdn.com/cu.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/cu.svg',
     emoji: '🇨🇺',
     currency: [
       {
@@ -3792,15 +3792,15 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Cuban',
     population: 10979783,
-    world_share: 0.1352443954144232,
-    gdp: 0,
-    area: 0,
+    world_share: 0.13524851862005866,
+    gdp: 107352000000,
+    area: 109880,
   },
   cv: {
     code: 'CV',
     code3: 'CPV',
     numeric_code: '132',
-    name: 'Cape Verde',
+    name: 'Cabo Verde',
     official_name: 'Republic of Cabo Verde',
     native_name: 'Cabo Verde',
     translations: {
@@ -3836,7 +3836,7 @@ const countries: Record<string, Country> = {
       tha: 'ประเทศกาบูเวร์ดี',
       tur: 'Yeşil Burun',
       urd: 'کیپ ورڈی',
-      usa: 'Cape Verde',
+      usa: 'Cabo Verde',
       vnm: 'Cabo Verde',
       zho: '佛得角',
     },
@@ -3844,7 +3844,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.cv'],
-    flag: 'https://flagcdn.com/cv.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/cv.svg',
     emoji: '🇨🇻',
     currency: [
       {
@@ -3860,9 +3860,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Cape Verdian',
     population: 524877,
-    world_share: 0.0064652163464374674,
-    gdp: 2767599017.44874,
-    area: 0,
+    world_share: 0.006465413451954426,
+    gdp: 2725414150.72735,
+    area: 4030,
   },
   cw: {
     code: 'CW',
@@ -3912,7 +3912,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.cw'],
-    flag: 'https://flagcdn.com/cw.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/cw.svg',
     emoji: '🇨🇼',
     currency: [
       {
@@ -3927,10 +3927,10 @@ const countries: Record<string, Country> = {
     latlng: [12.116667, -68.933333],
     drives_on: 'right',
     demonym: 'Curaçaoan',
-    population: 155900,
-    world_share: 0.0019203112889488415,
-    gdp: 0,
-    area: 0,
+    population: 155967,
+    world_share: 0.0019211951368815472,
+    gdp: 3561178196.20713,
+    area: 444,
   },
   cx: {
     code: 'CX',
@@ -3980,7 +3980,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Australia and New Zealand',
     tld: ['.cx'],
-    flag: 'https://flagcdn.com/cx.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/cx.svg',
     emoji: '🇨🇽',
     currency: [
       {
@@ -4041,14 +4041,14 @@ const countries: Record<string, Country> = {
       tur: 'Kıbrıs',
       urd: 'قبرص',
       usa: 'Cyprus',
-      vnm: 'Cộng hòa Síp',
+      vnm: 'Síp',
       zho: '塞浦路斯',
     },
     capital: 'Nicosia',
     continent: 'Europe',
     subregion: 'Southern Europe',
     tld: ['.cy'],
-    flag: 'https://flagcdn.com/cy.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/cy.svg',
     emoji: '🇨🇾',
     currency: [
       {
@@ -4064,9 +4064,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Cypriot',
     population: 1358282,
-    world_share: 0.016730752137113603,
-    gdp: 36333022329.4981,
-    area: 0,
+    world_share: 0.016731262208760454,
+    gdp: 37634533331.8902,
+    area: 9250,
   },
   cz: {
     code: 'CZ',
@@ -4116,7 +4116,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Central Europe',
     tld: ['.cz'],
-    flag: 'https://flagcdn.com/cz.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/cz.svg',
     emoji: '🇨🇿',
     currency: [
       {
@@ -4131,10 +4131,10 @@ const countries: Record<string, Country> = {
     latlng: [49.75, 15.5],
     drives_on: 'right',
     demonym: 'Czech',
-    population: 10882164,
-    world_share: 0.13404196521740014,
-    gdp: 345036675975.047,
-    area: 0,
+    population: 10905028,
+    world_share: 0.1343276895827778,
+    gdp: 347034062928.479,
+    area: 78871.43,
   },
   de: {
     code: 'DE',
@@ -4184,7 +4184,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Western Europe',
     tld: ['.de'],
-    flag: 'https://flagcdn.com/de.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/de.svg',
     emoji: '🇩🇪',
     currency: [
       {
@@ -4199,10 +4199,10 @@ const countries: Record<string, Country> = {
     latlng: [51, 9],
     drives_on: 'right',
     demonym: 'German',
-    population: 83510950,
-    world_share: 1.0286531111984751,
-    gdp: 4659929336890.62,
-    area: 0,
+    population: 83516593,
+    world_share: 1.0287539820636127,
+    gdp: 4685592577804.69,
+    area: 357680,
   },
   dj: {
     code: 'DJ',
@@ -4252,7 +4252,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.dj'],
-    flag: 'https://flagcdn.com/dj.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/dj.svg',
     emoji: '🇩🇯',
     currency: [
       {
@@ -4268,9 +4268,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Djibouti',
     population: 1168722,
-    world_share: 0.014395830982956177,
-    gdp: 4086402718.86834,
-    area: 0,
+    world_share: 0.014396269869693435,
+    gdp: 4152145939.98458,
+    area: 23200,
   },
   dk: {
     code: 'DK',
@@ -4320,7 +4320,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Northern Europe',
     tld: ['.dk'],
-    flag: 'https://flagcdn.com/dk.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/dk.svg',
     emoji: '🇩🇰',
     currency: [
       {
@@ -4336,9 +4336,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Danish',
     population: 5976992,
-    world_share: 0.07362209885540036,
-    gdp: 429457372071.869,
-    area: 0,
+    world_share: 0.07362434337763703,
+    gdp: 424524722037.047,
+    area: 42920,
   },
   dm: {
     code: 'DM',
@@ -4388,7 +4388,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.dm'],
-    flag: 'https://flagcdn.com/dm.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/dm.svg',
     emoji: '🇩🇲',
     currency: [
       {
@@ -4399,14 +4399,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1767',
+    phone_code: '+1',
     latlng: [15.41666666, -61.33333333],
     drives_on: 'left',
     demonym: 'Dominican',
     population: 66205,
-    world_share: 0.0008154856246623353,
+    world_share: 0.0008155104864313787,
     gdp: 688881481.481481,
-    area: 0,
+    area: 750,
   },
   do: {
     code: 'DO',
@@ -4456,7 +4456,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.do'],
-    flag: 'https://flagcdn.com/do.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/do.svg',
     emoji: '🇩🇴',
     currency: [
       {
@@ -4467,14 +4467,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['Spanish'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1809',
+    phone_code: '+1',
     latlng: [19, -70.66666666],
     drives_on: 'right',
     demonym: 'Dominican',
     population: 11427557,
-    world_share: 0.14075988910972648,
+    world_share: 0.14076418046661593,
     gdp: 124282245638.568,
-    area: 0,
+    area: 146839.46,
   },
   dz: {
     code: 'DZ',
@@ -4524,7 +4524,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Northern Africa',
     tld: ['.dz', 'الجزائر.'],
-    flag: 'https://flagcdn.com/dz.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/dz.svg',
     emoji: '🇩🇿',
     currency: [
       {
@@ -4540,9 +4540,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Algerian',
     population: 46814308,
-    world_share: 0.5766391541804238,
-    gdp: 263619794506.723,
-    area: 0,
+    world_share: 0.5766567342198986,
+    gdp: 269322281664.773,
+    area: 2381740,
   },
   ec: {
     code: 'EC',
@@ -4592,7 +4592,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'South America',
     tld: ['.ec'],
-    flag: 'https://flagcdn.com/ec.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ec.svg',
     emoji: '🇪🇨',
     currency: [
       {
@@ -4608,9 +4608,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Ecuadorean',
     population: 18135478,
-    world_share: 0.22338526705505685,
+    world_share: 0.22339207741780182,
     gdp: 124676074700,
-    area: 0,
+    area: 256370,
   },
   ee: {
     code: 'EE',
@@ -4660,7 +4660,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Northern Europe',
     tld: ['.ee'],
-    flag: 'https://flagcdn.com/ee.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ee.svg',
     emoji: '🇪🇪',
     currency: [
       {
@@ -4675,10 +4675,10 @@ const countries: Record<string, Country> = {
     latlng: [59, 26],
     drives_on: 'right',
     demonym: 'Estonian',
-    population: 1371986,
-    world_share: 0.016899552303269824,
-    gdp: 42764929169.3258,
-    area: 0,
+    population: 1372341,
+    world_share: 0.01690444039664262,
+    gdp: 43130419829.35,
+    area: 45340,
   },
   eg: {
     code: 'EG',
@@ -4728,7 +4728,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Northern Africa',
     tld: ['.eg', '.مصر'],
-    flag: 'https://flagcdn.com/eg.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/eg.svg',
     emoji: '🇪🇬',
     currency: [
       {
@@ -4744,9 +4744,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Egyptian',
     population: 116538258,
-    world_share: 1.435469739780838,
+    world_share: 1.4355135030503061,
     gdp: 389059911003.566,
-    area: 0,
+    area: 1001450,
   },
   eh: {
     code: 'EH',
@@ -4754,7 +4754,7 @@ const countries: Record<string, Country> = {
     numeric_code: '732',
     name: 'Western Sahara',
     official_name: 'Sahrawi Arab Democratic Republic',
-    native_name: 'Western Sahara',
+    native_name: 'الصحراء الغربية',
     translations: {
       ara: 'الصحراء الغربية',
       bre: "Sahara ar C'hornôg",
@@ -4796,7 +4796,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Northern Africa',
     tld: ['.eh'],
-    flag: 'https://flagcdn.com/eh.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/eh.svg',
     emoji: '🇪🇭',
     currency: [
       {
@@ -4815,9 +4815,9 @@ const countries: Record<string, Country> = {
         symbol: 'UM',
       },
     ],
-    languages: ['Berber', 'Hassaniya', 'Spanish'],
+    languages: ['Hassaniya Arabic', 'Spanish'],
     timezones: ['UTC+00:00'],
-    phone_code: '+2125288',
+    phone_code: '+212',
     latlng: [24.5, -13],
     drives_on: 'right',
     demonym: 'Sahrawi',
@@ -4874,7 +4874,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.er'],
-    flag: 'https://flagcdn.com/er.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/er.svg',
     emoji: '🇪🇷',
     currency: [
       {
@@ -4890,9 +4890,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Eritrean',
     population: 3535603,
-    world_share: 0.04355008565837967,
-    gdp: 0,
-    area: 0,
+    world_share: 0.043551413372981525,
+    gdp: null,
+    area: 121765.8,
   },
   es: {
     code: 'ES',
@@ -4942,7 +4942,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southern Europe',
     tld: ['.es'],
-    flag: 'https://flagcdn.com/es.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/es.svg',
     emoji: '🇪🇸',
     currency: [
       {
@@ -4951,16 +4951,16 @@ const countries: Record<string, Country> = {
         symbol: '€',
       },
     ],
-    languages: ['Spanish', 'Catalan', 'Basque', 'Galician'],
+    languages: ['Spanish', 'Catalan', 'Basque', 'Galician', 'Aranese'],
     timezones: ['UTC', 'UTC+01:00'],
     phone_code: '+34',
     latlng: [40, -4],
     drives_on: 'right',
     demonym: 'Spanish',
-    population: 48807137,
-    world_share: 0.6011859920614028,
-    gdp: 1722745978335.16,
-    area: 0,
+    population: 48848840,
+    world_share: 0.6017180163130971,
+    gdp: 1725671652742.19,
+    area: 505975.98,
   },
   et: {
     code: 'ET',
@@ -5010,7 +5010,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.et'],
-    flag: 'https://flagcdn.com/et.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/et.svg',
     emoji: '🇪🇹',
     currency: [
       {
@@ -5026,9 +5026,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Ethiopian',
     population: 132059767,
-    world_share: 1.6266572250548665,
-    gdp: 0,
-    area: 0,
+    world_share: 1.6267068170709844,
+    gdp: 149740297952.986,
+    area: 1136239.7,
   },
   fi: {
     code: 'FI',
@@ -5078,7 +5078,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Northern Europe',
     tld: ['.fi'],
-    flag: 'https://flagcdn.com/fi.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/fi.svg',
     emoji: '🇫🇮',
     currency: [
       {
@@ -5093,10 +5093,10 @@ const countries: Record<string, Country> = {
     latlng: [64, 26],
     drives_on: 'right',
     demonym: 'Finnish',
-    population: 5637214,
-    world_share: 0.06943685492251736,
-    gdp: 299835625550.781,
-    area: 0,
+    population: 5619911,
+    world_share: 0.06922583420151131,
+    gdp: 298696961297.656,
+    area: 338480,
   },
   fj: {
     code: 'FJ',
@@ -5146,7 +5146,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Melanesia',
     tld: ['.fj'],
-    flag: 'https://flagcdn.com/fj.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/fj.svg',
     emoji: '🇫🇯',
     currency: [
       {
@@ -5162,9 +5162,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Fijian',
     population: 928784,
-    world_share: 0.011440374600353182,
-    gdp: 5840564072.77313,
-    area: 0,
+    world_share: 0.011440723383878583,
+    gdp: 5968125909.27126,
+    area: 18270,
   },
   fk: {
     code: 'FK',
@@ -5214,7 +5214,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'South America',
     tld: ['.fk'],
-    flag: 'https://flagcdn.com/fk.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/fk.svg',
     emoji: '🇫🇰',
     currency: [
       {
@@ -5282,7 +5282,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Micronesia',
     tld: ['.fm'],
-    flag: 'https://flagcdn.com/fm.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/fm.svg',
     emoji: '🇫🇲',
     currency: [
       {
@@ -5298,9 +5298,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Micronesian',
     population: 113160,
-    world_share: 0.0013938577643197623,
+    world_share: 0.0013939002589619337,
     gdp: 471425099.488675,
-    area: 0,
+    area: 700,
   },
   fo: {
     code: 'FO',
@@ -5350,7 +5350,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Northern Europe',
     tld: ['.fo'],
-    flag: 'https://flagcdn.com/fo.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/fo.svg',
     emoji: '🇫🇴',
     currency: [
       {
@@ -5370,10 +5370,10 @@ const countries: Record<string, Country> = {
     latlng: [62, -7],
     drives_on: 'right',
     demonym: 'Faroese',
-    population: 54719,
-    world_share: 0.0006740058590121339,
-    gdp: 0,
-    area: 0,
+    population: 54681,
+    world_share: 0.0006735583250291401,
+    gdp: 4052937169.76536,
+    area: 12960,
   },
   fr: {
     code: 'FR',
@@ -5423,7 +5423,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Western Europe',
     tld: ['.fr'],
-    flag: 'https://flagcdn.com/fr.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/fr.svg',
     emoji: '🇫🇷',
     currency: [
       {
@@ -5453,10 +5453,10 @@ const countries: Record<string, Country> = {
     latlng: [46, 2],
     drives_on: 'right',
     demonym: 'French',
-    population: 68516699,
-    world_share: 0.8439601704375228,
-    gdp: 3162079073495.78,
-    area: 0,
+    population: 68551653,
+    world_share: 0.8444164622567039,
+    gdp: 3160442622465.08,
+    area: 606410,
   },
   ga: {
     code: 'GA',
@@ -5506,7 +5506,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Middle Africa',
     tld: ['.ga'],
-    flag: 'https://flagcdn.com/ga.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ga.svg',
     emoji: '🇬🇦',
     currency: [
       {
@@ -5522,9 +5522,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Gabonese',
     population: 2538952,
-    world_share: 0.0312737536093601,
-    gdp: 20867044935.6729,
-    area: 0,
+    world_share: 0.03127470705454152,
+    gdp: 20895684425.6752,
+    area: 267670,
   },
   gb: {
     code: 'GB',
@@ -5573,8 +5573,8 @@ const countries: Record<string, Country> = {
     capital: 'London',
     continent: 'Europe',
     subregion: 'Northern Europe',
-    tld: ['.uk'],
-    flag: 'https://flagcdn.com/gb.svg',
+    tld: ['.uk', '.gb'],
+    flag: 'https://flags.restcountries.com/v5/svg/gb.svg',
     emoji: '🇬🇧',
     currency: [
       {
@@ -5600,9 +5600,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'British',
     population: 69226000,
-    world_share: 0.8526970448285601,
-    gdp: 3643834188782.91,
-    area: 0,
+    world_share: 0.8527230410648534,
+    gdp: 3686033044482.13,
+    area: 243610,
   },
   gd: {
     code: 'GD',
@@ -5652,7 +5652,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.gd'],
-    flag: 'https://flagcdn.com/gd.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/gd.svg',
     emoji: '🇬🇩',
     currency: [
       {
@@ -5663,14 +5663,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1473',
+    phone_code: '+1',
     latlng: [12.11666666, -61.66666666],
     drives_on: 'left',
     demonym: 'Grenadian',
     population: 117207,
-    world_share: 0.0014437070252971578,
-    gdp: 1391435992.59259,
-    area: 0,
+    world_share: 0.0014437510396973431,
+    gdp: 1371918518.51852,
+    area: 340,
   },
   ge: {
     code: 'GE',
@@ -5720,12 +5720,12 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.ge'],
-    flag: 'https://flagcdn.com/ge.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ge.svg',
     emoji: '🇬🇪',
     currency: [
       {
         code: 'GEL',
-        name: 'lari',
+        name: 'Lari',
         symbol: '₾',
       },
     ],
@@ -5735,10 +5735,10 @@ const countries: Record<string, Country> = {
     latlng: [42, 43.5],
     drives_on: 'right',
     demonym: 'Georgian',
-    population: 3673850,
-    world_share: 0.04525295464339129,
-    gdp: 33776141250.5716,
-    area: 0,
+    population: 3699557,
+    world_share: 0.04557099204970338,
+    gdp: 34189423544.9955,
+    area: 69700,
   },
   gf: {
     code: 'GF',
@@ -5788,7 +5788,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'South America',
     tld: ['.gf'],
-    flag: 'https://flagcdn.com/gf.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/gf.svg',
     emoji: '🇬🇫',
     currency: [
       {
@@ -5856,7 +5856,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Northern Europe',
     tld: ['.gg'],
-    flag: 'https://flagcdn.com/gg.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/gg.svg',
     emoji: '🇬🇬',
     currency: [
       {
@@ -5870,7 +5870,7 @@ const countries: Record<string, Country> = {
         symbol: '£',
       },
     ],
-    languages: ['English', 'French', 'Guernésiais'],
+    languages: ['English', 'French', 'Norman'],
     timezones: ['UTC+00:00'],
     phone_code: '+44',
     latlng: [49.46666666, -2.58333333],
@@ -5929,7 +5929,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.gh'],
-    flag: 'https://flagcdn.com/gh.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/gh.svg',
     emoji: '🇬🇭',
     currency: [
       {
@@ -5945,9 +5945,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Ghanaian',
     population: 34427414,
-    world_share: 0.42406255133749454,
-    gdp: 82825288888.9734,
-    area: 0,
+    world_share: 0.4240754797630762,
+    gdp: 82308110386.4641,
+    area: 238539,
   },
   gi: {
     code: 'GI',
@@ -5997,7 +5997,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southern Europe',
     tld: ['.gi'],
-    flag: 'https://flagcdn.com/gi.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/gi.svg',
     emoji: '🇬🇮',
     currency: [
       {
@@ -6013,9 +6013,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Gibraltar',
     population: 39329,
-    world_share: 0.00048443824684457344,
-    gdp: 0,
-    area: 0,
+    world_share: 0.0004844530159483377,
+    gdp: null,
+    area: 10,
   },
   gl: {
     code: 'GL',
@@ -6065,12 +6065,12 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'North America',
     tld: ['.gl'],
-    flag: 'https://flagcdn.com/gl.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/gl.svg',
     emoji: '🇬🇱',
     currency: [
       {
         code: 'DKK',
-        name: 'krone',
+        name: 'Krone',
         symbol: 'kr.',
       },
     ],
@@ -6081,9 +6081,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Greenlandic',
     population: 56836,
-    world_share: 0.0007000821835708554,
-    gdp: 0,
-    area: 0,
+    world_share: 0.0007001035270268687,
+    gdp: 3326543974.39193,
+    area: 410450,
   },
   gm: {
     code: 'GM',
@@ -6133,12 +6133,12 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.gm'],
-    flag: 'https://flagcdn.com/gm.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/gm.svg',
     emoji: '🇬🇲',
     currency: [
       {
         code: 'GMD',
-        name: 'dalasi',
+        name: 'Dalasi',
         symbol: 'D',
       },
     ],
@@ -6149,9 +6149,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Gambian',
     population: 2759988,
-    world_share: 0.03399638302606373,
-    gdp: 2507519958.34857,
-    area: 0,
+    world_share: 0.03399741947624452,
+    gdp: 2404888749.21907,
+    area: 11300,
   },
   gn: {
     code: 'GN',
@@ -6201,7 +6201,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.gn'],
-    flag: 'https://flagcdn.com/gn.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/gn.svg',
     emoji: '🇬🇳',
     currency: [
       {
@@ -6217,9 +6217,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Guinean',
     population: 14754785,
-    world_share: 0.18174329827782576,
-    gdp: 25334307878.737,
-    area: 0,
+    world_share: 0.1817488390988658,
+    gdp: 25008678293.4084,
+    area: 245860,
   },
   gp: {
     code: 'GP',
@@ -6269,7 +6269,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.gp'],
-    flag: 'https://flagcdn.com/gp.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/gp.svg',
     emoji: '🇬🇵',
     currency: [
       {
@@ -6337,7 +6337,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Middle Africa',
     tld: ['.gq'],
-    flag: 'https://flagcdn.com/gq.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/gq.svg',
     emoji: '🇬🇶',
     currency: [
       {
@@ -6353,9 +6353,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Equatorial Guinean',
     population: 1892516,
-    world_share: 0.02331122411363891,
+    world_share: 0.023311934804609427,
     gdp: 12765777677.0622,
-    area: 0,
+    area: 28050,
   },
   gr: {
     code: 'GR',
@@ -6405,7 +6405,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southern Europe',
     tld: ['.gr'],
-    flag: 'https://flagcdn.com/gr.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/gr.svg',
     emoji: '🇬🇷',
     currency: [
       {
@@ -6420,10 +6420,10 @@ const countries: Record<string, Country> = {
     latlng: [39, 22],
     drives_on: 'right',
     demonym: 'Greek',
-    population: 10388805,
-    world_share: 0.12796497447202163,
-    gdp: 257144811301.673,
-    area: 0,
+    population: 10405134,
+    world_share: 0.1281700157046096,
+    gdp: 256238371778.118,
+    area: 131960,
   },
   gs: {
     code: 'GS',
@@ -6473,7 +6473,7 @@ const countries: Record<string, Country> = {
     continent: 'Antarctic',
     subregion: '',
     tld: ['.gs'],
-    flag: 'https://flagcdn.com/gs.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/gs.svg',
     emoji: '🇬🇸',
     currency: [
       {
@@ -6541,7 +6541,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Central America',
     tld: ['.gt'],
-    flag: 'https://flagcdn.com/gt.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/gt.svg',
     emoji: '🇬🇹',
     currency: [
       {
@@ -6557,9 +6557,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Guatemalan',
     population: 18406359,
-    world_share: 0.22672186642812772,
-    gdp: 113199586004.477,
-    area: 0,
+    world_share: 0.22672877851401835,
+    gdp: 113199581158.203,
+    area: 108890,
   },
   gu: {
     code: 'GU',
@@ -6609,7 +6609,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Micronesia',
     tld: ['.gu'],
-    flag: 'https://flagcdn.com/gu.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/gu.svg',
     emoji: '🇬🇺',
     currency: [
       {
@@ -6620,14 +6620,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['Chamorro', 'English', 'Spanish'],
     timezones: ['UTC+10:00'],
-    phone_code: '+1671',
+    phone_code: '+1',
     latlng: [13.46666666, 144.78333333],
     drives_on: 'right',
     demonym: 'Guamanian',
     population: 167777,
-    world_share: 0.0020666072298009606,
-    gdp: 0,
-    area: 0,
+    world_share: 0.0020666702346045984,
+    gdp: 6910000000,
+    area: 540,
   },
   gw: {
     code: 'GW',
@@ -6677,7 +6677,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.gw'],
-    flag: 'https://flagcdn.com/gw.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/gw.svg',
     emoji: '🇬🇼',
     currency: [
       {
@@ -6686,16 +6686,16 @@ const countries: Record<string, Country> = {
         symbol: 'Fr',
       },
     ],
-    languages: ['Portuguese', 'Upper Guinea Creole'],
+    languages: ['Portuguese', 'Upper Guinea Crioulo'],
     timezones: ['UTC'],
     phone_code: '+245',
     latlng: [12, -15],
     drives_on: 'right',
     demonym: 'Guinea-Bissauan',
     population: 2201352,
-    world_share: 0.027115337373637652,
-    gdp: 2119865935.24909,
-    area: 0,
+    world_share: 0.027116164040883444,
+    gdp: 2218393804.54798,
+    area: 36130,
   },
   gy: {
     code: 'GY',
@@ -6745,7 +6745,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'South America',
     tld: ['.gy'],
-    flag: 'https://flagcdn.com/gy.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/gy.svg',
     emoji: '🇬🇾',
     currency: [
       {
@@ -6761,9 +6761,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Guyanese',
     population: 831087,
-    world_share: 0.010236983631806452,
-    gdp: 24835899825.8993,
-    area: 0,
+    world_share: 0.010237295727464622,
+    gdp: 24662709832.1343,
+    area: 214970,
   },
   hk: {
     code: 'HK',
@@ -6813,7 +6813,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Eastern Asia',
     tld: ['.hk', '.香港'],
-    flag: 'https://flagcdn.com/hk.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/hk.svg',
     emoji: '🇭🇰',
     currency: [
       {
@@ -6829,9 +6829,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Hong Konger',
     population: 7524100,
-    world_share: 0.09267873104028211,
-    gdp: 407106738445.069,
-    area: 0,
+    world_share: 0.09268155654343836,
+    gdp: 406863396487.342,
+    area: 1110,
   },
   hm: {
     code: 'HM',
@@ -6881,12 +6881,12 @@ const countries: Record<string, Country> = {
     continent: 'Antarctic',
     subregion: '',
     tld: ['.hm', '.aq'],
-    flag: 'https://flagcdn.com/hm.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/hm.svg',
     emoji: '🇭🇲',
     currency: [],
     languages: ['English'],
     timezones: ['UTC+05:00'],
-    phone_code: '',
+    phone_code: '+672',
     latlng: [-53.0818, 73.5042],
     drives_on: 'right',
     demonym: 'Heard and McDonald Islander',
@@ -6943,7 +6943,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Central America',
     tld: ['.hn'],
-    flag: 'https://flagcdn.com/hn.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/hn.svg',
     emoji: '🇭🇳',
     currency: [
       {
@@ -6959,9 +6959,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Honduran',
     population: 10825703,
-    world_share: 0.133346502127693,
+    world_share: 0.13335056747211899,
     gdp: 37093565854.0437,
-    area: 0,
+    area: 112490,
   },
   hr: {
     code: 'HR',
@@ -7011,7 +7011,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southeast Europe',
     tld: ['.hr'],
-    flag: 'https://flagcdn.com/hr.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/hr.svg',
     emoji: '🇭🇷',
     currency: [
       {
@@ -7026,10 +7026,10 @@ const countries: Record<string, Country> = {
     latlng: [45.16666666, 15.5],
     drives_on: 'right',
     demonym: 'Croatian',
-    population: 3866300,
-    world_share: 0.04762347361425854,
-    gdp: 92526176108.621,
-    area: 0,
+    population: 3866200,
+    world_share: 0.04762369371861636,
+    gdp: 92983810328.9088,
+    area: 88070,
   },
   ht: {
     code: 'HT',
@@ -7079,7 +7079,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.ht'],
-    flag: 'https://flagcdn.com/ht.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ht.svg',
     emoji: '🇭🇹',
     currency: [
       {
@@ -7095,9 +7095,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Haitian',
     population: 11772557,
-    world_share: 0.1450094554643599,
+    world_share: 0.14501387637808522,
     gdp: 25224154990.7946,
-    area: 0,
+    area: 27750,
   },
   hu: {
     code: 'HU',
@@ -7147,7 +7147,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Central Europe',
     tld: ['.hu'],
-    flag: 'https://flagcdn.com/hu.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/hu.svg',
     emoji: '🇭🇺',
     currency: [
       {
@@ -7162,10 +7162,10 @@ const countries: Record<string, Country> = {
     latlng: [47, 20],
     drives_on: 'right',
     demonym: 'Hungarian',
-    population: 9562314,
-    world_share: 0.11778460245460906,
-    gdp: 222904723252.11,
-    area: 0,
+    population: 9562065,
+    world_share: 0.11778512619044577,
+    gdp: 222722738925.641,
+    area: 93030,
   },
   id: {
     code: 'ID',
@@ -7215,7 +7215,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'South-Eastern Asia',
     tld: ['.id'],
-    flag: 'https://flagcdn.com/id.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/id.svg',
     emoji: '🇮🇩',
     currency: [
       {
@@ -7231,9 +7231,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Indonesian',
     population: 283487931,
-    world_share: 3.4918863000644658,
+    world_share: 3.4919927574538954,
     gdp: 1396300098190.97,
-    area: 0,
+    area: 1916906.77,
   },
   ie: {
     code: 'IE',
@@ -7283,7 +7283,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Northern Europe',
     tld: ['.ie'],
-    flag: 'https://flagcdn.com/ie.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ie.svg',
     emoji: '🇮🇪',
     currency: [
       {
@@ -7298,10 +7298,10 @@ const countries: Record<string, Country> = {
     latlng: [53, -8],
     drives_on: 'left',
     demonym: 'Irish',
-    population: 5380257,
-    world_share: 0.06627176558400275,
-    gdp: 577389475009.922,
-    area: 0,
+    population: 5395790,
+    world_share: 0.06646512087578837,
+    gdp: 609157459747.205,
+    area: 70280,
   },
   il: {
     code: 'IL',
@@ -7351,7 +7351,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.il'],
-    flag: 'https://flagcdn.com/il.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/il.svg',
     emoji: '🇮🇱',
     currency: [
       {
@@ -7367,9 +7367,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Israeli',
     population: 9974400,
-    world_share: 0.12286050622508869,
+    world_share: 0.1228642518822014,
     gdp: 540379921261.681,
-    area: 0,
+    area: 22070,
   },
   im: {
     code: 'IM',
@@ -7419,7 +7419,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Northern Europe',
     tld: ['.im'],
-    flag: 'https://flagcdn.com/im.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/im.svg',
     emoji: '🇮🇲',
     currency: [
       {
@@ -7440,9 +7440,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Manx',
     population: 84160,
-    world_share: 0.0010366478388578225,
-    gdp: 0,
-    area: 0,
+    world_share: 0.001036679443215238,
+    gdp: 7431257410.92713,
+    area: 570,
   },
   in: {
     code: 'IN',
@@ -7492,7 +7492,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Southern Asia',
     tld: ['.in'],
-    flag: 'https://flagcdn.com/in.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/in.svg',
     emoji: '🇮🇳',
     currency: [
       {
@@ -7508,9 +7508,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Indian',
     population: 1450935791,
-    world_share: 17.872022957005886,
-    gdp: 3912686168582.21,
-    area: 0,
+    world_share: 17.87256782265852,
+    gdp: 3909891533858.08,
+    area: 3287260,
   },
   io: {
     code: 'IO',
@@ -7560,7 +7560,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.io'],
-    flag: 'https://flagcdn.com/io.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/io.svg',
     emoji: '🇮🇴',
     currency: [
       {
@@ -7628,7 +7628,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.iq'],
-    flag: 'https://flagcdn.com/iq.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/iq.svg',
     emoji: '🇮🇶',
     currency: [
       {
@@ -7637,16 +7637,16 @@ const countries: Record<string, Country> = {
         symbol: 'ع.د',
       },
     ],
-    languages: ['Arabic', 'Aramaic', 'Sorani'],
+    languages: ['Arabic', 'Aramaic', 'Central Kurdish'],
     timezones: ['UTC+03:00'],
     phone_code: '+964',
     latlng: [33, 44],
     drives_on: 'right',
     demonym: 'Iraqi',
     population: 46042015,
-    world_share: 0.5671263705609487,
+    world_share: 0.5671436605835033,
     gdp: 279641257615.385,
-    area: 0,
+    area: 435050,
   },
   ir: {
     code: 'IR',
@@ -7696,7 +7696,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Southern Asia',
     tld: ['.ir', 'ایران.'],
-    flag: 'https://flagcdn.com/ir.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ir.svg',
     emoji: '🇮🇷',
     currency: [
       {
@@ -7705,16 +7705,16 @@ const countries: Record<string, Country> = {
         symbol: '﷼',
       },
     ],
-    languages: ['Persian (Farsi)'],
+    languages: ['Persian'],
     timezones: ['UTC+03:30'],
     phone_code: '+98',
     latlng: [32, 53],
     drives_on: 'right',
     demonym: 'Iranian',
     population: 91567738,
-    world_share: 1.1278932712309804,
-    gdp: 436906331671.859,
-    area: 0,
+    world_share: 1.1279276573944723,
+    gdp: 475252089215.416,
+    area: 1745150,
   },
   is: {
     code: 'IS',
@@ -7764,7 +7764,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Northern Europe',
     tld: ['.is'],
-    flag: 'https://flagcdn.com/is.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/is.svg',
     emoji: '🇮🇸',
     currency: [
       {
@@ -7779,10 +7779,10 @@ const countries: Record<string, Country> = {
     latlng: [65, -18],
     drives_on: 'right',
     demonym: 'Icelander',
-    population: 404610,
-    world_share: 0.004983817515212257,
-    gdp: 33462807982.85,
-    area: 0,
+    population: 386506,
+    world_share: 0.004760965124516977,
+    gdp: 33255181468.9382,
+    area: 103000,
   },
   it: {
     code: 'IT',
@@ -7832,7 +7832,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southern Europe',
     tld: ['.it'],
-    flag: 'https://flagcdn.com/it.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/it.svg',
     emoji: '🇮🇹',
     currency: [
       {
@@ -7847,10 +7847,10 @@ const countries: Record<string, Country> = {
     latlng: [42.83333333, 12.83333333],
     drives_on: 'right',
     demonym: 'Italian',
-    population: 58986023,
-    world_share: 0.7265652716940091,
-    gdp: 2372774547793.12,
-    area: 0,
+    population: 58952704,
+    world_share: 0.726177000460465,
+    gdp: 2380825077243.59,
+    area: 302070,
   },
   je: {
     code: 'JE',
@@ -7900,7 +7900,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Northern Europe',
     tld: ['.je'],
-    flag: 'https://flagcdn.com/je.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/je.svg',
     emoji: '🇯🇪',
     currency: [
       {
@@ -7914,7 +7914,7 @@ const countries: Record<string, Country> = {
         symbol: '£',
       },
     ],
-    languages: ['English', 'French', 'Jèrriais'],
+    languages: ['English', 'French', 'Norman'],
     timezones: ['UTC+01:00'],
     phone_code: '+44',
     latlng: [49.25, -2.16666666],
@@ -7973,7 +7973,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.jm'],
-    flag: 'https://flagcdn.com/jm.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/jm.svg',
     emoji: '🇯🇲',
     currency: [
       {
@@ -7984,14 +7984,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English', 'Jamaican Patois'],
     timezones: ['UTC-05:00'],
-    phone_code: '+1876',
+    phone_code: '+1',
     latlng: [18.25, -77.5],
     drives_on: 'left',
     demonym: 'Jamaican',
     population: 2839175,
-    world_share: 0.03497177552149665,
-    gdp: 19930288337.028,
-    area: 0,
+    world_share: 0.034972841708538774,
+    gdp: 22014397089.7689,
+    area: 10990,
   },
   jo: {
     code: 'JO',
@@ -8041,7 +8041,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.jo', 'الاردن.'],
-    flag: 'https://flagcdn.com/jo.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/jo.svg',
     emoji: '🇯🇴',
     currency: [
       {
@@ -8057,9 +8057,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Jordanian',
     population: 11552876,
-    world_share: 0.14230351637348387,
+    world_share: 0.14230785479104904,
     gdp: 53352289577.4648,
-    area: 0,
+    area: 89318,
   },
   jp: {
     code: 'JP',
@@ -8109,7 +8109,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Eastern Asia',
     tld: ['.jp', '.みんな'],
-    flag: 'https://flagcdn.com/jp.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/jp.svg',
     emoji: '🇯🇵',
     currency: [
       {
@@ -8125,9 +8125,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Japanese',
     population: 123975371,
-    world_share: 1.5270770011733217,
-    gdp: 4026210821146.81,
-    area: 0,
+    world_share: 1.5271235572799735,
+    gdp: 4027597523550.58,
+    area: 377969.27,
   },
   ke: {
     code: 'KE',
@@ -8177,7 +8177,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.ke'],
-    flag: 'https://flagcdn.com/ke.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ke.svg',
     emoji: '🇰🇪',
     currency: [
       {
@@ -8193,9 +8193,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Kenyan',
     population: 56432944,
-    world_share: 0.6951175075806145,
-    gdp: 124498691699.125,
-    area: 0,
+    world_share: 0.6951386996781929,
+    gdp: 120339557905.932,
+    area: 591969,
   },
   kg: {
     code: 'KG',
@@ -8245,7 +8245,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Central Asia',
     tld: ['.kg'],
-    flag: 'https://flagcdn.com/kg.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/kg.svg',
     emoji: '🇰🇬',
     currency: [
       {
@@ -8260,10 +8260,10 @@ const countries: Record<string, Country> = {
     latlng: [41, 75],
     drives_on: 'right',
     demonym: 'Kirghiz',
-    population: 7224614,
-    world_share: 0.08898978718728574,
+    population: 7221868,
+    world_share: 0.08895867510948129,
     gdp: 17478259659.2625,
-    area: 0,
+    area: 199950,
   },
   kh: {
     code: 'KH',
@@ -8313,7 +8313,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'South-Eastern Asia',
     tld: ['.kh'],
-    flag: 'https://flagcdn.com/kh.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/kh.svg',
     emoji: '🇰🇭',
     currency: [
       {
@@ -8334,9 +8334,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Cambodian',
     population: 17638801,
-    world_share: 0.217267406567172,
-    gdp: 46352647034.7775,
-    area: 0,
+    world_share: 0.2172740304142631,
+    gdp: 46352647037.2406,
+    area: 181040,
   },
   ki: {
     code: 'KI',
@@ -8386,7 +8386,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Micronesia',
     tld: ['.ki'],
-    flag: 'https://flagcdn.com/ki.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ki.svg',
     emoji: '🇰🇮',
     currency: [
       {
@@ -8407,9 +8407,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'I-Kiribati',
     population: 134518,
-    world_share: 0.0016569367156306625,
-    gdp: 307862546.789627,
-    area: 0,
+    world_share: 0.0016569872307797932,
+    gdp: 307862564.489711,
+    area: 810,
   },
   km: {
     code: 'KM',
@@ -8459,7 +8459,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.km'],
-    flag: 'https://flagcdn.com/km.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/km.svg',
     emoji: '🇰🇲',
     currency: [
       {
@@ -8468,16 +8468,16 @@ const countries: Record<string, Country> = {
         symbol: 'Fr',
       },
     ],
-    languages: ['Arabic', 'French', 'Comorian'],
+    languages: ['Arabic', 'French', 'Ngazidja Comorian'],
     timezones: ['UTC+03:00'],
     phone_code: '+269',
     latlng: [-12.16666666, 44.25],
     drives_on: 'right',
     demonym: 'Comoran',
     population: 866628,
-    world_share: 0.010674762871835514,
-    gdp: 1546164420.32442,
-    area: 0,
+    world_share: 0.010675088314100942,
+    gdp: 1440991455.45188,
+    area: 1861,
   },
   kn: {
     code: 'KN',
@@ -8527,7 +8527,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.kn'],
-    flag: 'https://flagcdn.com/kn.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/kn.svg',
     emoji: '🇰🇳',
     currency: [
       {
@@ -8538,14 +8538,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1869',
+    phone_code: '+1',
     latlng: [17.33333333, -62.75],
     drives_on: 'left',
     demonym: 'Kittitian or Nevisian',
     population: 46843,
-    world_share: 0.0005769925702901257,
-    gdp: 1066681481.48148,
-    area: 0,
+    world_share: 0.0005770101611042229,
+    gdp: 1122388888.88889,
+    area: 260,
   },
   kp: {
     code: 'KP',
@@ -8595,7 +8595,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Eastern Asia',
     tld: ['.kp'],
-    flag: 'https://flagcdn.com/kp.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/kp.svg',
     emoji: '🇰🇵',
     currency: [
       {
@@ -8611,9 +8611,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'North Korean',
     population: 26498823,
-    world_share: 0.3264014685744529,
-    gdp: 0,
-    area: 0,
+    world_share: 0.32641141959956205,
+    gdp: null,
+    area: 120540,
   },
   kr: {
     code: 'KR',
@@ -8663,7 +8663,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Eastern Asia',
     tld: ['.kr', '.한국'],
-    flag: 'https://flagcdn.com/kr.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/kr.svg',
     emoji: '🇰🇷',
     currency: [
       {
@@ -8679,9 +8679,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'South Korean',
     population: 51751065,
-    world_share: 0.6374480714215862,
-    gdp: 0,
-    area: 0,
+    world_share: 0.6374675053469058,
+    gdp: 1875388209406.8,
+    area: 100450,
   },
   kw: {
     code: 'KW',
@@ -8731,7 +8731,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.kw'],
-    flag: 'https://flagcdn.com/kw.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/kw.svg',
     emoji: '🇰🇼',
     currency: [
       {
@@ -8746,10 +8746,10 @@ const countries: Record<string, Country> = {
     latlng: [29.5, 45.75],
     drives_on: 'right',
     demonym: 'Kuwaiti',
-    population: 4973861,
-    world_share: 0.061265948864415484,
-    gdp: 160227273001.348,
-    area: 0,
+    population: 4897263,
+    world_share: 0.06032428564779689,
+    gdp: 160227273053.334,
+    area: 17820,
   },
   ky: {
     code: 'KY',
@@ -8799,7 +8799,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.ky'],
-    flag: 'https://flagcdn.com/ky.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ky.svg',
     emoji: '🇰🇾',
     currency: [
       {
@@ -8810,14 +8810,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-05:00'],
-    phone_code: '+1345',
+    phone_code: '+1',
     latlng: [19.3133, -81.2546],
     drives_on: 'left',
     demonym: 'Caymanian',
     population: 74457,
-    world_share: 0.000917130324831712,
-    gdp: 0,
-    area: 0,
+    world_share: 0.000917158285450059,
+    gdp: 7241244269.45972,
+    area: 264,
   },
   kz: {
     code: 'KZ',
@@ -8867,7 +8867,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Central Asia',
     tld: ['.kz', '.қаз'],
-    flag: 'https://flagcdn.com/kz.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/kz.svg',
     emoji: '🇰🇿',
     currency: [
       {
@@ -8878,14 +8878,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['Kazakh', 'Russian'],
     timezones: ['UTC+05:00', 'UTC+06:00'],
-    phone_code: '+76',
+    phone_code: '+7',
     latlng: [48.0196, 66.9237],
     drives_on: 'right',
     demonym: 'Kazakhstani',
     population: 20592571,
-    world_share: 0.25365071558550695,
-    gdp: 288406138230.669,
-    area: 0,
+    world_share: 0.2536584486531637,
+    gdp: 291480274648.826,
+    area: 2724902,
   },
   la: {
     code: 'LA',
@@ -8935,7 +8935,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'South-Eastern Asia',
     tld: ['.la'],
-    flag: 'https://flagcdn.com/la.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/la.svg',
     emoji: '🇱🇦',
     currency: [
       {
@@ -8951,9 +8951,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Laotian',
     population: 7769819,
-    world_share: 0.09570539537388839,
-    gdp: 16502933121.0806,
-    area: 0,
+    world_share: 0.09570831315117843,
+    gdp: 16502933121.3379,
+    area: 236800,
   },
   lb: {
     code: 'LB',
@@ -9003,7 +9003,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.lb'],
-    flag: 'https://flagcdn.com/lb.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/lb.svg',
     emoji: '🇱🇧',
     currency: [
       {
@@ -9019,9 +9019,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Lebanese',
     population: 5805962,
-    world_share: 0.07151542252602948,
-    gdp: 0,
-    area: 0,
+    world_share: 0.07151760282187297,
+    gdp: 20078620356.9931,
+    area: 10450,
   },
   lc: {
     code: 'LC',
@@ -9071,7 +9071,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.lc'],
-    flag: 'https://flagcdn.com/lc.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/lc.svg',
     emoji: '🇱🇨',
     currency: [
       {
@@ -9082,14 +9082,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1758',
+    phone_code: '+1',
     latlng: [13.88333333, -60.96666666],
     drives_on: 'left',
     demonym: 'Saint Lucian',
     population: 179744,
-    world_share: 0.002214011753180376,
+    world_share: 0.002214079251916347,
     gdp: 2549062962.96296,
-    area: 0,
+    area: 620,
   },
   li: {
     code: 'LI',
@@ -9139,7 +9139,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Western Europe',
     tld: ['.li'],
-    flag: 'https://flagcdn.com/li.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/li.svg',
     emoji: '🇱🇮',
     currency: [
       {
@@ -9154,10 +9154,10 @@ const countries: Record<string, Country> = {
     latlng: [47.26666666, 9.53333333],
     drives_on: 'right',
     demonym: 'Liechtensteiner',
-    population: 40197,
-    world_share: 0.0004951299094411583,
-    gdp: 0,
-    area: 0,
+    population: 40450,
+    world_share: 0.000498261448170822,
+    gdp: 8239379403.22096,
+    area: 160,
   },
   lk: {
     code: 'LK',
@@ -9207,7 +9207,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Southern Asia',
     tld: ['.lk', '.இலங்கை', '.ලංකා'],
-    flag: 'https://flagcdn.com/lk.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/lk.svg',
     emoji: '🇱🇰',
     currency: [
       {
@@ -9223,9 +9223,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Sri Lankan',
     population: 21916000,
-    world_share: 0.2699521629801335,
+    world_share: 0.26996039303119246,
     gdp: 98963185509.6499,
-    area: 0,
+    area: 65610,
   },
   lr: {
     code: 'LR',
@@ -9275,7 +9275,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.lr'],
-    flag: 'https://flagcdn.com/lr.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/lr.svg',
     emoji: '🇱🇷',
     currency: [
       {
@@ -9291,9 +9291,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Liberian',
     population: 5612817,
-    world_share: 0.06913634283453476,
-    gdp: 4750000000,
-    area: 0,
+    world_share: 0.06913845059920416,
+    gdp: 4779300900,
+    area: 111370,
   },
   ls: {
     code: 'LS',
@@ -9343,7 +9343,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Southern Africa',
     tld: ['.ls'],
-    flag: 'https://flagcdn.com/ls.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ls.svg',
     emoji: '🇱🇸',
     currency: [
       {
@@ -9364,9 +9364,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Mosotho',
     population: 2337423,
-    world_share: 0.028791403296655988,
-    gdp: 2271541845.62002,
-    area: 0,
+    world_share: 0.02879228106224443,
+    gdp: 2271759454.51107,
+    area: 30360,
   },
   lt: {
     code: 'LT',
@@ -9416,7 +9416,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Northern Europe',
     tld: ['.lt'],
-    flag: 'https://flagcdn.com/lt.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/lt.svg',
     emoji: '🇱🇹',
     currency: [
       {
@@ -9431,10 +9431,10 @@ const countries: Record<string, Country> = {
     latlng: [56, 24],
     drives_on: 'right',
     demonym: 'Lithuanian',
-    population: 2888055,
-    world_share: 0.03557385900965457,
+    population: 2888278,
+    world_share: 0.035577690457352915,
     gdp: 84869215513.3648,
-    area: 0,
+    area: 65290,
   },
   lu: {
     code: 'LU',
@@ -9484,7 +9484,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Western Europe',
     tld: ['.lu'],
-    flag: 'https://flagcdn.com/lu.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/lu.svg',
     emoji: '🇱🇺',
     currency: [
       {
@@ -9499,10 +9499,10 @@ const countries: Record<string, Country> = {
     latlng: [49.75, 6.16666666],
     drives_on: 'right',
     demonym: 'Luxembourger',
-    population: 677717,
-    world_share: 0.008347835829458257,
-    gdp: 93197329011.7078,
-    area: 0,
+    population: 677012,
+    world_share: 0.008339406169320754,
+    gdp: 93279851863.4062,
+    area: 2590,
   },
   lv: {
     code: 'LV',
@@ -9552,7 +9552,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Northern Europe',
     tld: ['.lv'],
-    flag: 'https://flagcdn.com/lv.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/lv.svg',
     emoji: '🇱🇻',
     currency: [
       {
@@ -9567,10 +9567,10 @@ const countries: Record<string, Country> = {
     latlng: [57, 25],
     drives_on: 'right',
     demonym: 'Latvian',
-    population: 1862441,
-    world_share: 0.022940772785767605,
-    gdp: 43520773851.1219,
-    area: 0,
+    population: 1866124,
+    world_share: 0.02298683922636161,
+    gdp: 43684254432.3609,
+    area: 64590,
   },
   ly: {
     code: 'LY',
@@ -9620,7 +9620,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Northern Africa',
     tld: ['.ly'],
-    flag: 'https://flagcdn.com/ly.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ly.svg',
     emoji: '🇱🇾',
     currency: [
       {
@@ -9636,9 +9636,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Libyan',
     population: 7381023,
-    world_share: 0.09091636812630562,
-    gdp: 46636278901.9016,
-    area: 0,
+    world_share: 0.09091913990017664,
+    gdp: 48487151215.345,
+    area: 1759540,
   },
   ma: {
     code: 'MA',
@@ -9688,7 +9688,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Northern Africa',
     tld: ['.ma', 'المغرب.'],
-    flag: 'https://flagcdn.com/ma.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ma.svg',
     emoji: '🇲🇦',
     currency: [
       {
@@ -9697,16 +9697,16 @@ const countries: Record<string, Country> = {
         symbol: 'د.م.',
       },
     ],
-    languages: ['Arabic', 'Berber'],
+    languages: ['Arabic', 'Standard Moroccan Tamazight'],
     timezones: ['UTC'],
     phone_code: '+212',
     latlng: [32, -5],
     drives_on: 'right',
     demonym: 'Moroccan',
     population: 38081173,
-    world_share: 0.4690680334080425,
-    gdp: 154430996472.752,
-    area: 0,
+    world_share: 0.4690823339190014,
+    gdp: 160610994054.734,
+    area: 446550,
   },
   mc: {
     code: 'MC',
@@ -9756,7 +9756,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Western Europe',
     tld: ['.mc'],
-    flag: 'https://flagcdn.com/mc.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mc.svg',
     emoji: '🇲🇨',
     currency: [
       {
@@ -9772,9 +9772,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Monegasque',
     population: 38631,
-    world_share: 0.00047584057346621364,
-    gdp: 0,
-    area: 0,
+    world_share: 0.0004758550804520896,
+    gdp: 11125783372.4794,
+    area: 74.9,
   },
   md: {
     code: 'MD',
@@ -9824,7 +9824,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Eastern Europe',
     tld: ['.md'],
-    flag: 'https://flagcdn.com/md.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/md.svg',
     emoji: '🇲🇩',
     currency: [
       {
@@ -9839,10 +9839,10 @@ const countries: Record<string, Country> = {
     latlng: [47, 29],
     drives_on: 'right',
     demonym: 'Moldovan',
-    population: 2389275,
-    world_share: 0.029430094643381935,
+    population: 2402306,
+    world_share: 0.029591507206661427,
     gdp: 18200340853.6517,
-    area: 0,
+    area: 33850,
   },
   me: {
     code: 'ME',
@@ -9892,7 +9892,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southeast Europe',
     tld: ['.me'],
-    flag: 'https://flagcdn.com/me.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/me.svg',
     emoji: '🇲🇪',
     currency: [
       {
@@ -9907,10 +9907,10 @@ const countries: Record<string, Country> = {
     latlng: [42.5, 19.3],
     drives_on: 'right',
     demonym: 'Montenegrin',
-    population: 623831,
-    world_share: 0.007684090517615426,
-    gdp: 8069536125.80285,
-    area: 0,
+    population: 623525,
+    world_share: 0.007680555487533048,
+    gdp: 8270016670.86774,
+    area: 13888,
   },
   mf: {
     code: 'MF',
@@ -9960,7 +9960,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.fr', '.gp'],
-    flag: 'https://flagcdn.com/mf.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mf.svg',
     emoji: '🇲🇫',
     currency: [
       {
@@ -9976,9 +9976,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Saint Martin Islander',
     population: 26129,
-    world_share: 0.00032184614284120776,
-    gdp: 0,
-    area: 0,
+    world_share: 0.00032185595498777274,
+    gdp: 649206262.847519,
+    area: 50,
   },
   mg: {
     code: 'MG',
@@ -10028,7 +10028,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.mg'],
-    flag: 'https://flagcdn.com/mg.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mg.svg',
     emoji: '🇲🇬',
     currency: [
       {
@@ -10044,9 +10044,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Malagasy',
     population: 31964956,
-    world_share: 0.39373101897083396,
-    gdp: 17420814800.7045,
-    area: 0,
+    world_share: 0.3937430226768011,
+    gdp: 17420501490.1231,
+    area: 587295,
   },
   mh: {
     code: 'MH',
@@ -10096,7 +10096,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Micronesia',
     tld: ['.mh'],
-    flag: 'https://flagcdn.com/mh.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mh.svg',
     emoji: '🇲🇭',
     currency: [
       {
@@ -10112,9 +10112,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Marshallese',
     population: 37548,
-    world_share: 0.0004625006303877557,
-    gdp: 280357844.229802,
-    area: 0,
+    world_share: 0.00046251473067782507,
+    gdp: 290108489.990234,
+    area: 180,
   },
   mk: {
     code: 'MK',
@@ -10164,12 +10164,12 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southeast Europe',
     tld: ['.mk'],
-    flag: 'https://flagcdn.com/mk.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mk.svg',
     emoji: '🇲🇰',
     currency: [
       {
         code: 'MKD',
-        name: 'denar',
+        name: 'Denar',
         symbol: 'den',
       },
     ],
@@ -10179,10 +10179,10 @@ const countries: Record<string, Country> = {
     latlng: [41.83333333, 22],
     drives_on: 'right',
     demonym: 'Macedonian',
-    population: 1792179,
-    world_share: 0.022075314724291507,
-    gdp: 16685236492.0675,
-    area: 0,
+    population: 1824359,
+    world_share: 0.022472379661890547,
+    gdp: 16951682245.4202,
+    area: 25710,
   },
   ml: {
     code: 'ML',
@@ -10232,7 +10232,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.ml'],
-    flag: 'https://flagcdn.com/ml.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ml.svg',
     emoji: '🇲🇱',
     currency: [
       {
@@ -10248,9 +10248,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Malian',
     population: 24478595,
-    world_share: 0.3015171412194142,
-    gdp: 26588067731.1692,
-    area: 0,
+    world_share: 0.30152633359424086,
+    gdp: 26794747239.8805,
+    area: 1240190,
   },
   mm: {
     code: 'MM',
@@ -10300,7 +10300,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'South-Eastern Asia',
     tld: ['.mm'],
-    flag: 'https://flagcdn.com/mm.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mm.svg',
     emoji: '🇲🇲',
     currency: [
       {
@@ -10316,9 +10316,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Burmese',
     population: 54500091,
-    world_share: 0.6713094290958254,
-    gdp: 74079772652.4286,
-    area: 0,
+    world_share: 0.671329895354798,
+    gdp: 74068349523.8095,
+    area: 676590,
   },
   mn: {
     code: 'MN',
@@ -10368,7 +10368,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Eastern Asia',
     tld: ['.mn'],
-    flag: 'https://flagcdn.com/mn.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mn.svg',
     emoji: '🇲🇳',
     currency: [
       {
@@ -10384,9 +10384,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Mongolian',
     population: 3524788,
-    world_share: 0.043416870991349645,
-    gdp: 23586055802.4517,
-    area: 0,
+    world_share: 0.04341819464462634,
+    gdp: 23794540024.5132,
+    area: 1564115.75,
   },
   mo: {
     code: 'MO',
@@ -10436,7 +10436,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Eastern Asia',
     tld: ['.mo'],
-    flag: 'https://flagcdn.com/mo.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mo.svg',
     emoji: '🇲🇴',
     currency: [
       {
@@ -10452,9 +10452,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Macanese',
     population: 687000,
-    world_share: 0.008462179958356986,
-    gdp: 50183212761.3484,
-    area: 0,
+    world_share: 0.008462437945447583,
+    gdp: 49467258923.3244,
+    area: 33,
   },
   mp: {
     code: 'MP',
@@ -10504,7 +10504,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Micronesia',
     tld: ['.mp'],
-    flag: 'https://flagcdn.com/mp.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mp.svg',
     emoji: '🇲🇵',
     currency: [
       {
@@ -10515,14 +10515,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['Carolinian', 'Chamorro', 'English'],
     timezones: ['UTC+10:00'],
-    phone_code: '+1670',
+    phone_code: '+1',
     latlng: [15.2, 145.75],
     drives_on: 'right',
     demonym: 'American',
     population: 44278,
-    world_share: 0.0005453979682621989,
-    gdp: 0,
-    area: 0,
+    world_share: 0.0005454145958493858,
+    gdp: 1096000000,
+    area: 460,
   },
   mq: {
     code: 'MQ',
@@ -10572,7 +10572,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.mq'],
-    flag: 'https://flagcdn.com/mq.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mq.svg',
     emoji: '🇲🇶',
     currency: [
       {
@@ -10640,7 +10640,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.mr'],
-    flag: 'https://flagcdn.com/mr.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mr.svg',
     emoji: '🇲🇷',
     currency: [
       {
@@ -10656,9 +10656,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Mauritanian',
     population: 5169395,
-    world_share: 0.06367445526321808,
-    gdp: 10766731873.5407,
-    area: 0,
+    world_share: 0.06367639651092723,
+    gdp: 10908045686.8808,
+    area: 1030700,
   },
   ms: {
     code: 'MS',
@@ -10708,7 +10708,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.ms'],
-    flag: 'https://flagcdn.com/ms.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ms.svg',
     emoji: '🇲🇸',
     currency: [
       {
@@ -10719,7 +10719,7 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1664',
+    phone_code: '+1',
     latlng: [16.75, -62.2],
     drives_on: 'left',
     demonym: 'Montserratian',
@@ -10776,7 +10776,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southern Europe',
     tld: ['.mt'],
-    flag: 'https://flagcdn.com/mt.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mt.svg',
     emoji: '🇲🇹',
     currency: [
       {
@@ -10791,10 +10791,10 @@ const countries: Record<string, Country> = {
     latlng: [35.9375, 14.3754],
     drives_on: 'left',
     demonym: 'Maltese',
-    population: 574346,
-    world_share: 0.007074554891357353,
-    gdp: 24322006607.9295,
-    area: 0,
+    population: 568847,
+    world_share: 0.007007034116381398,
+    gdp: 24971574502.4475,
+    area: 320,
   },
   mu: {
     code: 'MU',
@@ -10844,7 +10844,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.mu'],
-    flag: 'https://flagcdn.com/mu.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mu.svg',
     emoji: '🇲🇺',
     currency: [
       {
@@ -10859,17 +10859,17 @@ const countries: Record<string, Country> = {
     latlng: [-20.28333333, 57.55],
     drives_on: 'left',
     demonym: 'Mauritian',
-    population: 1259509,
-    world_share: 0.015514107448573873,
-    gdp: 14952555414.8553,
-    area: 0,
+    population: 1245779,
+    world_share: 0.01534545484896906,
+    gdp: 14937861786.17,
+    area: 2010,
   },
   mv: {
     code: 'MV',
     code3: 'MDV',
     numeric_code: '462',
     name: 'Maldives',
-    official_name: 'Republic of the Maldives',
+    official_name: 'Republic of Maldives',
     native_name: 'ދިވެހިރާއްޖޭގެ',
     translations: {
       ara: 'المالديف',
@@ -10912,7 +10912,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Southern Asia',
     tld: ['.mv'],
-    flag: 'https://flagcdn.com/mv.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mv.svg',
     emoji: '🇲🇻',
     currency: [
       {
@@ -10921,16 +10921,16 @@ const countries: Record<string, Country> = {
         symbol: '.ރ',
       },
     ],
-    languages: ['Maldivian'],
+    languages: ['Divehi'],
     timezones: ['UTC+05:00'],
     phone_code: '+960',
     latlng: [3.25, 73],
     drives_on: 'left',
     demonym: 'Maldivan',
     population: 527799,
-    world_share: 0.006501208325823667,
-    gdp: 6975146349.42592,
-    area: 0,
+    world_share: 0.006501406528630697,
+    gdp: 7061608267.25451,
+    area: 300,
   },
   mw: {
     code: 'MW',
@@ -10980,7 +10980,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.mw'],
-    flag: 'https://flagcdn.com/mw.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mw.svg',
     emoji: '🇲🇼',
     currency: [
       {
@@ -10989,16 +10989,16 @@ const countries: Record<string, Country> = {
         symbol: 'MK',
       },
     ],
-    languages: ['English', 'Chewa'],
+    languages: ['English', 'Chichewa'],
     timezones: ['UTC+02:00'],
     phone_code: '+265',
     latlng: [-13.5, 34],
     drives_on: 'left',
     demonym: 'Malawian',
     population: 21655286,
-    world_share: 0.2667407964798961,
-    gdp: 11008925322.5134,
-    area: 0,
+    world_share: 0.266748928625793,
+    gdp: 11316411329.4619,
+    area: 118480,
   },
   mx: {
     code: 'MX',
@@ -11048,7 +11048,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'North America',
     tld: ['.mx'],
-    flag: 'https://flagcdn.com/mx.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mx.svg',
     emoji: '🇲🇽',
     currency: [
       {
@@ -11064,9 +11064,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Mexican',
     population: 130861007,
-    world_share: 1.611891398494634,
-    gdp: 1852722885258.11,
-    area: 0,
+    world_share: 1.6119405403439326,
+    gdp: 1856365616165.94,
+    area: 1957193.9,
   },
   my: {
     code: 'MY',
@@ -11116,7 +11116,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'South-Eastern Asia',
     tld: ['.my'],
-    flag: 'https://flagcdn.com/my.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/my.svg',
     emoji: '🇲🇾',
     currency: [
       {
@@ -11132,9 +11132,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Malaysian',
     population: 35557673,
-    world_share: 0.4379846111010354,
-    gdp: 421972102253.57,
-    area: 0,
+    world_share: 0.437997963969457,
+    gdp: 422227005428.688,
+    area: 330411,
   },
   mz: {
     code: 'MZ',
@@ -11184,7 +11184,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.mz'],
-    flag: 'https://flagcdn.com/mz.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/mz.svg',
     emoji: '🇲🇿',
     currency: [
       {
@@ -11200,9 +11200,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Mozambican',
     population: 34631766,
-    world_share: 0.4265796741888048,
-    gdp: 22416650343.4786,
-    area: 0,
+    world_share: 0.4265926793540924,
+    gdp: 22745341305.0622,
+    area: 799380,
   },
   na: {
     code: 'NA',
@@ -11252,7 +11252,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Southern Africa',
     tld: ['.na'],
-    flag: 'https://flagcdn.com/na.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/na.svg',
     emoji: '🇳🇦',
     currency: [
       {
@@ -11266,16 +11266,16 @@ const countries: Record<string, Country> = {
         symbol: 'R',
       },
     ],
-    languages: ['Afrikaans', 'German', 'English', 'Herero', 'Khoekhoe', 'Kwangali', 'Lozi', 'Ndonga', 'Tswana'],
+    languages: ['Afrikaans', 'German', 'English', 'Herero', 'Hai‖om', 'Kwangali', 'Lozi', 'Ndonga', 'Tswana'],
     timezones: ['UTC+01:00'],
     phone_code: '+264',
     latlng: [-22, 17],
     drives_on: 'left',
     demonym: 'Namibian',
     population: 3030131,
-    world_share: 0.03732389202241079,
-    gdp: 13372354268.5446,
-    area: 0,
+    world_share: 0.0373250299185983,
+    gdp: 13372354511.716,
+    area: 824290,
   },
   nc: {
     code: 'NC',
@@ -11325,7 +11325,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Melanesia',
     tld: ['.nc'],
-    flag: 'https://flagcdn.com/nc.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/nc.svg',
     emoji: '🇳🇨',
     currency: [
       {
@@ -11341,9 +11341,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'New Caledonian',
     population: 292639,
-    world_share: 0.003604605357836434,
-    gdp: 0,
-    area: 0,
+    world_share: 0.0036047152516999054,
+    gdp: 8548919387.12607,
+    area: 18580,
   },
   ne: {
     code: 'NE',
@@ -11393,7 +11393,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.ne'],
-    flag: 'https://flagcdn.com/ne.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ne.svg',
     emoji: '🇳🇪',
     currency: [
       {
@@ -11409,9 +11409,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Nigerien',
     population: 27032412,
-    world_share: 0.3329739957095326,
-    gdp: 19537639288.0633,
-    area: 0,
+    world_share: 0.3329841471117505,
+    gdp: 19876128485.7857,
+    area: 1267000,
   },
   nf: {
     code: 'NF',
@@ -11461,7 +11461,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Australia and New Zealand',
     tld: ['.nf'],
-    flag: 'https://flagcdn.com/nf.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/nf.svg',
     emoji: '🇳🇫',
     currency: [
       {
@@ -11529,7 +11529,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.ng'],
-    flag: 'https://flagcdn.com/ng.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ng.svg',
     emoji: '🇳🇬',
     currency: [
       {
@@ -11545,9 +11545,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Nigerian',
     population: 232679478,
-    world_share: 2.8660489307897605,
-    gdp: 187759703099.801,
-    area: 0,
+    world_share: 2.8661363082301836,
+    gdp: 252261880141.151,
+    area: 923770,
   },
   ni: {
     code: 'NI',
@@ -11597,7 +11597,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Central America',
     tld: ['.ni'],
-    flag: 'https://flagcdn.com/ni.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ni.svg',
     emoji: '🇳🇮',
     currency: [
       {
@@ -11613,9 +11613,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Nicaraguan',
     population: 6916140,
-    world_share: 0.08519013289256346,
+    world_share: 0.08519273009028798,
     gdp: 19693982967.5926,
-    area: 0,
+    area: 130370,
   },
   nl: {
     code: 'NL',
@@ -11665,7 +11665,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Western Europe',
     tld: ['.nl'],
-    flag: 'https://flagcdn.com/nl.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/nl.svg',
     emoji: '🇳🇱',
     currency: [
       {
@@ -11680,10 +11680,10 @@ const countries: Record<string, Country> = {
     latlng: [52.5, 5.75],
     drives_on: 'right',
     demonym: 'Dutch',
-    population: 17994237,
-    world_share: 0.2216455192246372,
-    gdp: 1227543925316.41,
-    area: 0,
+    population: 17993485,
+    world_share: 0.22164301344227347,
+    gdp: 1214927698572.66,
+    area: 41540,
   },
   no: {
     code: 'NO',
@@ -11733,7 +11733,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Northern Europe',
     tld: ['.no'],
-    flag: 'https://flagcdn.com/no.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/no.svg',
     emoji: '🇳🇴',
     currency: [
       {
@@ -11742,16 +11742,16 @@ const countries: Record<string, Country> = {
         symbol: 'kr',
       },
     ],
-    languages: ['Norwegian Nynorsk', 'Norwegian Bokmål', 'Sami'],
+    languages: ['Norwegian Nynorsk', 'Norwegian Bokmål', 'Northern Sami', 'Lule Sami', 'Southern Sami'],
     timezones: ['UTC+01:00'],
     phone_code: '+47',
     latlng: [62, 10],
     drives_on: 'right',
     demonym: 'Norwegian',
-    population: 5572272,
-    world_share: 0.06863692640598806,
-    gdp: 483727398216.364,
-    area: 0,
+    population: 5572279,
+    world_share: 0.06863910517062695,
+    gdp: 483592648313.301,
+    area: 624500,
   },
   np: {
     code: 'NP',
@@ -11801,7 +11801,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Southern Asia',
     tld: ['.np'],
-    flag: 'https://flagcdn.com/np.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/np.svg',
     emoji: '🇳🇵',
     currency: [
       {
@@ -11817,9 +11817,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Nepalese',
     population: 29651054,
-    world_share: 0.36522933755889486,
+    world_share: 0.3652404723320456,
     gdp: 42914268286.7109,
-    area: 0,
+    area: 147180,
   },
   nr: {
     code: 'NR',
@@ -11869,7 +11869,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Micronesia',
     tld: ['.nr'],
-    flag: 'https://flagcdn.com/nr.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/nr.svg',
     emoji: '🇳🇷',
     currency: [
       {
@@ -11878,16 +11878,16 @@ const countries: Record<string, Country> = {
         symbol: '$',
       },
     ],
-    languages: ['English', 'Nauru'],
+    languages: ['English', 'Nauruan'],
     timezones: ['UTC+12:00'],
     phone_code: '+674',
     latlng: [-0.53333333, 166.91666666],
     drives_on: 'left',
     demonym: 'Nauruan',
     population: 11947,
-    world_share: 0.00014715817170668258,
-    gdp: 160350639.549467,
-    area: 0,
+    world_share: 0.00014716265812847492,
+    gdp: 162588620.632234,
+    area: 20,
   },
   nu: {
     code: 'NU',
@@ -11937,7 +11937,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Polynesia',
     tld: ['.nu'],
-    flag: 'https://flagcdn.com/nu.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/nu.svg',
     emoji: '🇳🇺',
     currency: [
       {
@@ -12005,7 +12005,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Australia and New Zealand',
     tld: ['.nz'],
-    flag: 'https://flagcdn.com/nz.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/nz.svg',
     emoji: '🇳🇿',
     currency: [
       {
@@ -12014,16 +12014,16 @@ const countries: Record<string, Country> = {
         symbol: '$',
       },
     ],
-    languages: ['English', 'Māori', 'New Zealand Sign Language'],
+    languages: ['English', 'Maori', 'New Zealand Sign Language'],
     timezones: ['UTC-11:00', 'UTC-10:00', 'UTC+12:00', 'UTC+12:45', 'UTC+13:00'],
     phone_code: '+64',
     latlng: [-41, 174],
     drives_on: 'left',
     demonym: 'New Zealander',
-    population: 5338500,
-    world_share: 0.06575742024408847,
-    gdp: 260235932558.996,
-    area: 0,
+    population: 5287500,
+    world_share: 0.06513120907795356,
+    gdp: 260172385097.616,
+    area: 267710,
   },
   om: {
     code: 'OM',
@@ -12073,7 +12073,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.om'],
-    flag: 'https://flagcdn.com/om.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/om.svg',
     emoji: '🇴🇲',
     currency: [
       {
@@ -12089,9 +12089,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Omani',
     population: 5281538,
-    world_share: 0.0650557860449794,
-    gdp: 106942782834.85,
-    area: 0,
+    world_share: 0.0650577694054197,
+    gdp: 107137198769.386,
+    area: 309500,
   },
   pa: {
     code: 'PA',
@@ -12141,7 +12141,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Central America',
     tld: ['.pa'],
-    flag: 'https://flagcdn.com/pa.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/pa.svg',
     emoji: '🇵🇦',
     currency: [
       {
@@ -12162,9 +12162,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Panamanian',
     population: 4515577,
-    world_share: 0.05562099736509136,
-    gdp: 86260400000,
-    area: 0,
+    world_share: 0.05562269308644885,
+    gdp: 86523959131.7472,
+    area: 75320,
   },
   pe: {
     code: 'PE',
@@ -12214,7 +12214,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'South America',
     tld: ['.pe'],
-    flag: 'https://flagcdn.com/pe.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/pe.svg',
     emoji: '🇵🇪',
     currency: [
       {
@@ -12230,9 +12230,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Peruvian',
     population: 34217848,
-    world_share: 0.42148120460510297,
-    gdp: 289221969059.853,
-    area: 0,
+    world_share: 0.4214940543329806,
+    gdp: 289221969062.941,
+    area: 1285215.6,
   },
   pf: {
     code: 'PF',
@@ -12282,7 +12282,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Polynesia',
     tld: ['.pf'],
-    flag: 'https://flagcdn.com/pf.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/pf.svg',
     emoji: '🇵🇫',
     currency: [
       {
@@ -12298,9 +12298,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'French Polynesian',
     population: 281807,
-    world_share: 0.003471181291884581,
-    gdp: 0,
-    area: 0,
+    world_share: 0.0034712871180389323,
+    gdp: 6323716355.05009,
+    area: 3471,
   },
   pg: {
     code: 'PG',
@@ -12350,7 +12350,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Melanesia',
     tld: ['.pg'],
-    flag: 'https://flagcdn.com/pg.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/pg.svg',
     emoji: '🇵🇬',
     currency: [
       {
@@ -12366,9 +12366,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Papua New Guinean',
     population: 10576502,
-    world_share: 0.13027694796786402,
-    gdp: 32538480023.9998,
-    area: 0,
+    world_share: 0.13028091973057096,
+    gdp: 31800428265.5246,
+    area: 462840,
   },
   ph: {
     code: 'PH',
@@ -12418,7 +12418,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'South-Eastern Asia',
     tld: ['.ph'],
-    flag: 'https://flagcdn.com/ph.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ph.svg',
     emoji: '🇵🇭',
     currency: [
       {
@@ -12434,9 +12434,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Filipino',
     population: 115843670,
-    world_share: 1.4269140939978464,
+    world_share: 1.4269575964307244,
     gdp: 461617509782.355,
-    area: 0,
+    area: 300000,
   },
   pk: {
     code: 'PK',
@@ -12486,7 +12486,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Southern Asia',
     tld: ['.pk'],
-    flag: 'https://flagcdn.com/pk.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/pk.svg',
     emoji: '🇵🇰',
     currency: [
       {
@@ -12502,9 +12502,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Pakistani',
     population: 251269164,
-    world_share: 3.0950289428732387,
-    gdp: 373071855731.539,
-    area: 0,
+    world_share: 3.0951233012438015,
+    gdp: 371570000121.266,
+    area: 796100,
   },
   pl: {
     code: 'PL',
@@ -12554,7 +12554,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Central Europe',
     tld: ['.pl'],
-    flag: 'https://flagcdn.com/pl.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/pl.svg',
     emoji: '🇵🇱',
     currency: [
       {
@@ -12569,10 +12569,10 @@ const countries: Record<string, Country> = {
     latlng: [52, 20],
     drives_on: 'right',
     demonym: 'Polish',
-    population: 36554707,
-    world_share: 0.45026566078458785,
-    gdp: 914696430325.391,
-    area: 0,
+    population: 36559233,
+    world_share: 0.4503351391494315,
+    gdp: 917767106146.761,
+    area: 313930,
   },
   pm: {
     code: 'PM',
@@ -12622,7 +12622,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'North America',
     tld: ['.pm'],
-    flag: 'https://flagcdn.com/pm.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/pm.svg',
     emoji: '🇵🇲',
     currency: [
       {
@@ -12690,7 +12690,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Polynesia',
     tld: ['.pn'],
-    flag: 'https://flagcdn.com/pn.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/pn.svg',
     emoji: '🇵🇳',
     currency: [
       {
@@ -12758,7 +12758,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.pr'],
-    flag: 'https://flagcdn.com/pr.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/pr.svg',
     emoji: '🇵🇷',
     currency: [
       {
@@ -12769,14 +12769,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English', 'Spanish'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1787',
+    phone_code: '+1',
     latlng: [18.25, -66.5],
     drives_on: 'right',
     demonym: 'Puerto Rican',
     population: 3203295,
-    world_share: 0.03945685407526222,
-    gdp: 125841500000,
-    area: 0,
+    world_share: 0.03945805699921764,
+    gdp: 126029527033.705,
+    area: 8870,
   },
   ps: {
     code: 'PS',
@@ -12799,7 +12799,7 @@ const countries: Record<string, Country> = {
       grc: 'Κράτος της Παλαιστίνης',
       hrv: 'Palestina',
       hun: 'Palesztina',
-      idn: 'Negara Palestina',
+      idn: 'Palestina',
       ind: 'Palestina',
       ita: 'Palestina',
       jpn: 'パレスチナ',
@@ -12826,7 +12826,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.ps', 'فلسطين.'],
-    flag: 'https://flagcdn.com/ps.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ps.svg',
     emoji: '🇵🇸',
     currency: [
       {
@@ -12852,9 +12852,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Palestinian',
     population: 5289152,
-    world_share: 0.06514957212678861,
+    world_share: 0.06515155834649194,
     gdp: 13711100000,
-    area: 0,
+    area: 6025,
   },
   pt: {
     code: 'PT',
@@ -12904,7 +12904,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southern Europe',
     tld: ['.pt'],
-    flag: 'https://flagcdn.com/pt.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/pt.svg',
     emoji: '🇵🇹',
     currency: [
       {
@@ -12919,10 +12919,10 @@ const countries: Record<string, Country> = {
     latlng: [39.5, -8],
     drives_on: 'right',
     demonym: 'Portuguese',
-    population: 10701636,
-    world_share: 0.13181829647864865,
-    gdp: 308683317392.68,
-    area: 0,
+    population: 10694681,
+    world_share: 0.1317366438265754,
+    gdp: 313271185085.102,
+    area: 92230,
   },
   pw: {
     code: 'PW',
@@ -12972,7 +12972,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Micronesia',
     tld: ['.pw'],
-    flag: 'https://flagcdn.com/pw.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/pw.svg',
     emoji: '🇵🇼',
     currency: [
       {
@@ -12988,9 +12988,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Palauan',
     population: 17695,
-    world_share: 0.00021795964244996635,
-    gdp: 0,
-    area: 0,
+    world_share: 0.00021796628740130273,
+    gdp: 276733062.744141,
+    area: 460,
   },
   py: {
     code: 'PY',
@@ -13040,7 +13040,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'South America',
     tld: ['.py'],
-    flag: 'https://flagcdn.com/py.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/py.svg',
     emoji: '🇵🇾',
     currency: [
       {
@@ -13049,16 +13049,16 @@ const countries: Record<string, Country> = {
         symbol: '₲',
       },
     ],
-    languages: ['Guaraní', 'Spanish'],
+    languages: ['Guarani', 'Spanish'],
     timezones: ['UTC-04:00'],
     phone_code: '+595',
     latlng: [-23, -58],
     drives_on: 'right',
     demonym: 'Paraguayan',
     population: 6929153,
-    world_share: 0.08535042160842678,
-    gdp: 44458118399.6669,
-    area: 0,
+    world_share: 0.08535302369288494,
+    gdp: 44458118397.4445,
+    area: 406752,
   },
   qa: {
     code: 'QA',
@@ -13108,7 +13108,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.qa', 'قطر.'],
-    flag: 'https://flagcdn.com/qa.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/qa.svg',
     emoji: '🇶🇦',
     currency: [
       {
@@ -13124,9 +13124,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Qatari',
     population: 2857822,
-    world_share: 0.035201461503568676,
-    gdp: 217982967032.967,
-    area: 0,
+    world_share: 0.0352025346930639,
+    gdp: 219162637362.637,
+    area: 11490,
   },
   re: {
     code: 'RE',
@@ -13176,7 +13176,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.re'],
-    flag: 'https://flagcdn.com/re.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/re.svg',
     emoji: '🇷🇪',
     currency: [
       {
@@ -13237,14 +13237,14 @@ const countries: Record<string, Country> = {
       tur: 'Romanya',
       urd: 'رومانیہ',
       usa: 'Romania',
-      vnm: 'Romania',
+      vnm: 'România',
       zho: '罗马尼亚',
     },
     capital: 'Bucharest',
     continent: 'Europe',
     subregion: 'Southeast Europe',
     tld: ['.ro'],
-    flag: 'https://flagcdn.com/ro.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ro.svg',
     emoji: '🇷🇴',
     currency: [
       {
@@ -13259,10 +13259,10 @@ const countries: Record<string, Country> = {
     latlng: [46, 25],
     drives_on: 'right',
     demonym: 'Romanian',
-    population: 19069340,
-    world_share: 0.23488819034511677,
-    gdp: 382767571329.158,
-    area: 0,
+    population: 19051804,
+    world_share: 0.23467934366641924,
+    gdp: 382564217988.866,
+    area: 238400,
   },
   rs: {
     code: 'RS',
@@ -13312,7 +13312,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southeast Europe',
     tld: ['.rs', '.срб'],
-    flag: 'https://flagcdn.com/rs.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/rs.svg',
     emoji: '🇷🇸',
     currency: [
       {
@@ -13327,10 +13327,10 @@ const countries: Record<string, Country> = {
     latlng: [44, 21],
     drives_on: 'right',
     demonym: 'Serbian',
-    population: 6587202,
-    world_share: 0.08113841156630139,
-    gdp: 89083506277.2344,
-    area: 0,
+    population: 6586476,
+    world_share: 0.08113194240055285,
+    gdp: 90097765959.1114,
+    area: 84990,
   },
   ru: {
     code: 'RU',
@@ -13380,7 +13380,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Eastern Europe',
     tld: ['.ru', '.su', '.рф'],
-    flag: 'https://flagcdn.com/ru.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ru.svg',
     emoji: '🇷🇺',
     currency: [
       {
@@ -13401,14 +13401,14 @@ const countries: Record<string, Country> = {
       'UTC+11:00',
       'UTC+12:00',
     ],
-    phone_code: '+73',
+    phone_code: '+7',
     latlng: [60, 100],
     drives_on: 'right',
     demonym: 'Russian',
     population: 143533851,
-    world_share: 1.767990214378454,
+    world_share: 1.768044115223609,
     gdp: 2173835806671.66,
-    area: 0,
+    area: 17125190,
   },
   rw: {
     code: 'RW',
@@ -13458,7 +13458,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.rw'],
-    flag: 'https://flagcdn.com/rw.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/rw.svg',
     emoji: '🇷🇼',
     currency: [
       {
@@ -13474,9 +13474,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Rwandan',
     population: 14256567,
-    world_share: 0.1756064563935569,
-    gdp: 14251642231.4932,
-    area: 0,
+    world_share: 0.1756118101202559,
+    gdp: 14251642235.0968,
+    area: 26338,
   },
   sa: {
     code: 'SA',
@@ -13519,14 +13519,14 @@ const countries: Record<string, Country> = {
       tur: 'Suudi Arabistan',
       urd: 'سعودی عرب',
       usa: 'Saudi Arabia',
-      vnm: 'Ả Rập Saudi',
+      vnm: 'Ả Rập Xê Út',
       zho: '沙特阿拉伯',
     },
     capital: 'Riyadh',
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.sa', '.السعودية'],
-    flag: 'https://flagcdn.com/sa.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/sa.svg',
     emoji: '🇸🇦',
     currency: [
       {
@@ -13542,9 +13542,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Saudi Arabian',
     population: 35300280,
-    world_share: 0.4348141512960552,
-    gdp: 1237529866666.67,
-    area: 0,
+    world_share: 0.43482740750644017,
+    gdp: 1239804533333.33,
+    area: 2149690,
   },
   sb: {
     code: 'SB',
@@ -13594,7 +13594,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Melanesia',
     tld: ['.sb'],
-    flag: 'https://flagcdn.com/sb.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/sb.svg',
     emoji: '🇸🇧',
     currency: [
       {
@@ -13610,9 +13610,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Solomon Islander',
     population: 819198,
-    world_share: 0.010090539879950693,
-    gdp: 1760767447.17461,
-    area: 0,
+    world_share: 0.01009084751096764,
+    gdp: 1583964703.75061,
+    area: 28900,
   },
   sc: {
     code: 'SC',
@@ -13662,7 +13662,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.sc'],
-    flag: 'https://flagcdn.com/sc.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/sc.svg',
     emoji: '🇸🇨',
     currency: [
       {
@@ -13678,9 +13678,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Seychellois',
     population: 121354,
-    world_share: 0.001494788044638215,
+    world_share: 0.0014948336163491207,
     gdp: 2167239562.46013,
-    area: 0,
+    area: 460,
   },
   sd: {
     code: 'SD',
@@ -13730,7 +13730,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Northern Africa',
     tld: ['.sd'],
-    flag: 'https://flagcdn.com/sd.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/sd.svg',
     emoji: '🇸🇩',
     currency: [
       {
@@ -13746,9 +13746,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Sudanese',
     population: 50448963,
-    world_share: 0.6214093211331778,
-    gdp: 49909807029.6996,
-    area: 0,
+    world_share: 0.6214282660839608,
+    gdp: 49672435513.1126,
+    area: 1878000,
   },
   se: {
     code: 'SE',
@@ -13798,7 +13798,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Northern Europe',
     tld: ['.se'],
-    flag: 'https://flagcdn.com/se.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/se.svg',
     emoji: '🇸🇪',
     currency: [
       {
@@ -13814,9 +13814,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Swedish',
     population: 10569709,
-    world_share: 0.13019327462222047,
-    gdp: 610117791237.089,
-    area: 0,
+    world_share: 0.13019724383397208,
+    gdp: 603715224265.798,
+    area: 528660,
   },
   sg: {
     code: 'SG',
@@ -13866,7 +13866,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'South-Eastern Asia',
     tld: ['.sg', '.新加坡', '.சிங்கப்பூர்'],
-    flag: 'https://flagcdn.com/sg.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/sg.svg',
     emoji: '🇸🇬',
     currency: [
       {
@@ -13882,9 +13882,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Singaporean',
     population: 6036860,
-    world_share: 0.07435952795255743,
+    world_share: 0.07436179495684817,
     gdp: 547386645891.847,
-    area: 0,
+    area: 728,
   },
   sh: {
     code: 'SH',
@@ -13934,7 +13934,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.sh', '.ac'],
-    flag: 'https://flagcdn.com/sh.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/sh.svg',
     emoji: '🇸🇭',
     currency: [
       {
@@ -14007,7 +14007,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Central Europe',
     tld: ['.si'],
-    flag: 'https://flagcdn.com/si.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/si.svg',
     emoji: '🇸🇮',
     currency: [
       {
@@ -14016,16 +14016,16 @@ const countries: Record<string, Country> = {
         symbol: '€',
       },
     ],
-    languages: ['Slovene'],
+    languages: ['Slovenian'],
     timezones: ['UTC+01:00'],
     phone_code: '+386',
     latlng: [46.11666666, 14.81666666],
     drives_on: 'right',
     demonym: 'Slovene',
-    population: 2126324,
-    world_share: 0.026191173708549436,
-    gdp: 72485008929.2766,
-    area: 0,
+    population: 2127400,
+    world_share: 0.02620522632481104,
+    gdp: 72972015197.3859,
+    area: 20480,
   },
   sj: {
     code: 'SJ',
@@ -14075,18 +14075,18 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Northern Europe',
     tld: ['.sj'],
-    flag: 'https://flagcdn.com/sj.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/sj.svg',
     emoji: '🇸🇯',
     currency: [
       {
         code: 'NOK',
-        name: 'krone',
+        name: 'Krone',
         symbol: 'kr',
       },
     ],
     languages: ['Norwegian'],
     timezones: ['UTC+01:00'],
-    phone_code: '+4779',
+    phone_code: '+47',
     latlng: [78, 20],
     drives_on: 'right',
     demonym: 'Norwegian',
@@ -14143,7 +14143,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Central Europe',
     tld: ['.sk'],
-    flag: 'https://flagcdn.com/sk.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/sk.svg',
     emoji: '🇸🇰',
     currency: [
       {
@@ -14159,9 +14159,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Slovak',
     population: 5422069,
-    world_share: 0.06678678839101705,
-    gdp: 141775733420.114,
-    area: 0,
+    world_share: 0.0667888245246507,
+    gdp: 140934076532.375,
+    area: 49030,
   },
   sl: {
     code: 'SL',
@@ -14211,7 +14211,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.sl'],
-    flag: 'https://flagcdn.com/sl.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/sl.svg',
     emoji: '🇸🇱',
     currency: [
       {
@@ -14227,9 +14227,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Sierra Leonean',
     population: 8642022,
-    world_share: 0.10644882877449806,
-    gdp: 7547843281.27425,
-    area: 0,
+    world_share: 0.10645207408761691,
+    gdp: 6971127235.3123,
+    area: 72300,
   },
   sm: {
     code: 'SM',
@@ -14279,7 +14279,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southern Europe',
     tld: ['.sm'],
-    flag: 'https://flagcdn.com/sm.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/sm.svg',
     emoji: '🇸🇲',
     currency: [
       {
@@ -14295,9 +14295,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Sammarinese',
     population: 33977,
-    world_share: 0.00041851453922139056,
-    gdp: 0,
-    area: 0,
+    world_share: 0.0004185272985043268,
+    gdp: 2027527227.831,
+    area: 60,
   },
   sn: {
     code: 'SN',
@@ -14347,7 +14347,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.sn'],
-    flag: 'https://flagcdn.com/sn.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/sn.svg',
     emoji: '🇸🇳',
     currency: [
       {
@@ -14363,9 +14363,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Senegalese',
     population: 18501984,
-    world_share: 0.22789973536337937,
-    gdp: 32267254425.052,
-    area: 0,
+    world_share: 0.2279066833590452,
+    gdp: 32808056600.9436,
+    area: 196710,
   },
   so: {
     code: 'SO',
@@ -14415,7 +14415,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.so'],
-    flag: 'https://flagcdn.com/so.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/so.svg',
     emoji: '🇸🇴',
     currency: [
       {
@@ -14431,9 +14431,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Somali',
     population: 19009151,
-    world_share: 0.23414680730361234,
-    gdp: 12108515109.9996,
-    area: 0,
+    world_share: 0.23415394575421083,
+    gdp: 11967000000,
+    area: 637660,
   },
   sr: {
     code: 'SR',
@@ -14483,7 +14483,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'South America',
     tld: ['.sr'],
-    flag: 'https://flagcdn.com/sr.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/sr.svg',
     emoji: '🇸🇷',
     currency: [
       {
@@ -14499,9 +14499,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Surinamer',
     population: 634431,
-    world_share: 0.007814656904163582,
-    gdp: 4714267822.2233,
-    area: 0,
+    world_share: 0.007814895150172132,
+    gdp: 4416775112.09627,
+    area: 163820,
   },
   ss: {
     code: 'SS',
@@ -14551,7 +14551,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Middle Africa',
     tld: ['.ss'],
-    flag: 'https://flagcdn.com/ss.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ss.svg',
     emoji: '🇸🇸',
     currency: [
       {
@@ -14567,9 +14567,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'South Sudanese',
     population: 11943408,
-    world_share: 0.14711392694625983,
-    gdp: 0,
-    area: 0,
+    world_share: 0.14711841201915898,
+    gdp: null,
+    area: 646883,
   },
   st: {
     code: 'ST',
@@ -14619,7 +14619,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Middle Africa',
     tld: ['.st'],
-    flag: 'https://flagcdn.com/st.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/st.svg',
     emoji: '🇸🇹',
     currency: [
       {
@@ -14635,9 +14635,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Sao Tomean',
     population: 235536,
-    world_share: 0.0029012343794346013,
-    gdp: 764274042.735043,
-    area: 0,
+    world_share: 0.0029013228295763343,
+    gdp: 822154621.088897,
+    area: 960,
   },
   sv: {
     code: 'SV',
@@ -14687,7 +14687,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Central America',
     tld: ['.sv'],
-    flag: 'https://flagcdn.com/sv.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/sv.svg',
     emoji: '🇸🇻',
     currency: [
       {
@@ -14703,9 +14703,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Salvadoran',
     population: 6338193,
-    world_share: 0.07807122238253063,
+    world_share: 0.07807360254551711,
     gdp: 35364960000,
-    area: 0,
+    area: 21040,
   },
   sx: {
     code: 'SX',
@@ -14755,7 +14755,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.sx'],
-    flag: 'https://flagcdn.com/sx.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/sx.svg',
     emoji: '🇸🇽',
     currency: [
       {
@@ -14766,14 +14766,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English', 'French', 'Dutch'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1721',
+    phone_code: '+1',
     latlng: [18.033333, -63.05],
     drives_on: 'right',
     demonym: 'St. Maartener',
     population: 43350,
-    world_share: 0.0005339672506474168,
-    gdp: 1735210227.92581,
-    area: 0,
+    world_share: 0.0005339835297454915,
+    gdp: 1797836665.95136,
+    area: 34,
   },
   sy: {
     code: 'SY',
@@ -14823,7 +14823,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.sy', 'سوريا.'],
-    flag: 'https://flagcdn.com/sy.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/sy.svg',
     emoji: '🇸🇾',
     currency: [
       {
@@ -14839,9 +14839,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Syrian',
     population: 24672760,
-    world_share: 0.30390878484621825,
-    gdp: 0,
-    area: 0,
+    world_share: 0.30391805013525663,
+    gdp: 23622827079.5047,
+    area: 185180,
   },
   sz: {
     code: 'SZ',
@@ -14891,7 +14891,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Southern Africa',
     tld: ['.sz'],
-    flag: 'https://flagcdn.com/sz.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/sz.svg',
     emoji: '🇸🇿',
     currency: [
       {
@@ -14912,9 +14912,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Swazi',
     population: 1242822,
-    world_share: 0.015308563930429618,
-    gdp: 4891883720.15742,
-    area: 0,
+    world_share: 0.015309030643722061,
+    gdp: 4858885840.77236,
+    area: 17360,
   },
   tc: {
     code: 'TC',
@@ -14964,7 +14964,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.tc'],
-    flag: 'https://flagcdn.com/tc.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/tc.svg',
     emoji: '🇹🇨',
     currency: [
       {
@@ -14975,14 +14975,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1649',
+    phone_code: '+1',
     latlng: [21.75, -71.58333333],
     drives_on: 'left',
     demonym: 'Turks and Caicos Islander',
     population: 46535,
-    world_share: 0.0005731987545300471,
+    world_share: 0.0005732162296818097,
     gdp: 1745378000,
-    area: 0,
+    area: 950,
   },
   td: {
     code: 'TD',
@@ -15032,7 +15032,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Middle Africa',
     tld: ['.td'],
-    flag: 'https://flagcdn.com/td.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/td.svg',
     emoji: '🇹🇩',
     currency: [
       {
@@ -15048,9 +15048,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Chadian',
     population: 20299123,
-    world_share: 0.2500361453025085,
-    gdp: 20625711664.6472,
-    area: 0,
+    world_share: 0.2500437681725004,
+    gdp: 19518819751.283,
+    area: 1284000,
   },
   tf: {
     code: 'TF',
@@ -15100,7 +15100,7 @@ const countries: Record<string, Country> = {
     continent: 'Antarctic',
     subregion: '',
     tld: ['.tf'],
-    flag: 'https://flagcdn.com/tf.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/tf.svg',
     emoji: '🇹🇫',
     currency: [
       {
@@ -15168,7 +15168,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Western Africa',
     tld: ['.tg'],
-    flag: 'https://flagcdn.com/tg.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/tg.svg',
     emoji: '🇹🇬',
     currency: [
       {
@@ -15184,9 +15184,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Togolese',
     population: 9515236,
-    world_share: 0.11720471525216433,
-    gdp: 9925732119.72034,
-    area: 0,
+    world_share: 0.11720828848076983,
+    gdp: 10651180146.531,
+    area: 56790,
   },
   th: {
     code: 'TH',
@@ -15236,7 +15236,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'South-Eastern Asia',
     tld: ['.th', '.ไทย'],
-    flag: 'https://flagcdn.com/th.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/th.svg',
     emoji: '🇹🇭',
     currency: [
       {
@@ -15252,9 +15252,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Thai',
     population: 71668011,
-    world_share: 0.8827767195626027,
-    gdp: 526411265427.683,
-    area: 0,
+    world_share: 0.8828036328401089,
+    gdp: 526517658841.684,
+    area: 513115.021,
   },
   tj: {
     code: 'TJ',
@@ -15304,7 +15304,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Central Asia',
     tld: ['.tj'],
-    flag: 'https://flagcdn.com/tj.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/tj.svg',
     emoji: '🇹🇯',
     currency: [
       {
@@ -15320,9 +15320,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Tadzhik',
     population: 10590927,
-    world_share: 0.13045462911182226,
+    world_share: 0.13045860629150702,
     gdp: 14204575548.5536,
-    area: 0,
+    area: 141379,
   },
   tk: {
     code: 'TK',
@@ -15372,7 +15372,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Polynesia',
     tld: ['.tk'],
-    flag: 'https://flagcdn.com/tk.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/tk.svg',
     emoji: '🇹🇰',
     currency: [
       {
@@ -15440,7 +15440,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'South-Eastern Asia',
     tld: ['.tl'],
-    flag: 'https://flagcdn.com/tl.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/tl.svg',
     emoji: '🇹🇱',
     currency: [
       {
@@ -15456,9 +15456,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'East Timorese',
     population: 1400638,
-    world_share: 0.01725247570962622,
-    gdp: 1881265333.4187,
-    area: 0,
+    world_share: 0.01725300168709725,
+    gdp: 1865608515.41321,
+    area: 14870,
   },
   tm: {
     code: 'TM',
@@ -15508,7 +15508,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Central Asia',
     tld: ['.tm'],
-    flag: 'https://flagcdn.com/tm.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/tm.svg',
     emoji: '🇹🇲',
     currency: [
       {
@@ -15524,16 +15524,16 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Turkmen',
     population: 7494498,
-    world_share: 0.09231410592947091,
-    gdp: 64239891739.3311,
-    area: 0,
+    world_share: 0.09231692031627513,
+    gdp: 51387209872.2994,
+    area: 491209,
   },
   tn: {
     code: 'TN',
     code3: 'TUN',
     numeric_code: '788',
     name: 'Tunisia',
-    official_name: 'Tunisian Republic',
+    official_name: 'Republic of Tunisia',
     native_name: 'تونس',
     translations: {
       ara: 'تونس',
@@ -15576,7 +15576,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Northern Africa',
     tld: ['.tn'],
-    flag: 'https://flagcdn.com/tn.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/tn.svg',
     emoji: '🇹🇳',
     currency: [
       {
@@ -15592,9 +15592,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Tunisian',
     population: 12277109,
-    world_share: 0.1512243169233831,
-    gdp: 53409988744.5968,
-    area: 0,
+    world_share: 0.15122892731003787,
+    gdp: 51332285656.5422,
+    area: 163610,
   },
   to: {
     code: 'TO',
@@ -15644,7 +15644,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Polynesia',
     tld: ['.to'],
-    flag: 'https://flagcdn.com/to.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/to.svg',
     emoji: '🇹🇴',
     currency: [
       {
@@ -15660,16 +15660,16 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Tongan',
     population: 104175,
-    world_share: 0.001283184275344744,
-    gdp: 0,
-    area: 0,
+    world_share: 0.0012832233958762764,
+    gdp: 591139749.44287,
+    area: 750,
   },
   tr: {
     code: 'TR',
     code3: 'TUR',
     numeric_code: '792',
     name: 'Turkey',
-    official_name: 'Republic of Turkey',
+    official_name: 'Republic of Türkiye',
     native_name: 'Türkiye',
     translations: {
       ara: 'تركيا',
@@ -15712,7 +15712,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.tr'],
-    flag: 'https://flagcdn.com/tr.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/tr.svg',
     emoji: '🇹🇷',
     currency: [
       {
@@ -15728,9 +15728,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Turkish',
     population: 85518661,
-    world_share: 1.0533832593591343,
-    gdp: 1323254808058.74,
-    area: 0,
+    world_share: 1.0534153739305214,
+    gdp: 1359123768774.12,
+    area: 785350,
   },
   tt: {
     code: 'TT',
@@ -15780,7 +15780,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.tt'],
-    flag: 'https://flagcdn.com/tt.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/tt.svg',
     emoji: '🇹🇹',
     currency: [
       {
@@ -15791,14 +15791,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1868',
+    phone_code: '+1',
     latlng: [10.6918, -61.2225],
     drives_on: 'left',
     demonym: 'Trinidadian',
     population: 1368333,
-    world_share: 0.01685455617024526,
-    gdp: 26428963758.1307,
-    area: 0,
+    world_share: 0.016855070016314595,
+    gdp: 25633544529.4849,
+    area: 5130,
   },
   tv: {
     code: 'TV',
@@ -15848,7 +15848,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Polynesia',
     tld: ['.tv'],
-    flag: 'https://flagcdn.com/tv.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/tv.svg',
     emoji: '🇹🇻',
     currency: [
       {
@@ -15869,9 +15869,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Tuvaluan',
     population: 9646,
-    world_share: 0.00011881541175882313,
-    gdp: 0,
-    area: 0,
+    world_share: 0.00011881903409284916,
+    gdp: 62280311.5852172,
+    area: 30,
   },
   tw: {
     code: 'TW',
@@ -15921,7 +15921,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Eastern Asia',
     tld: ['.tw', '.台灣', '.台湾'],
-    flag: 'https://flagcdn.com/tw.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/tw.svg',
     emoji: '🇹🇼',
     currency: [
       {
@@ -15989,7 +15989,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.tz'],
-    flag: 'https://flagcdn.com/tz.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/tz.svg',
     emoji: '🇹🇿',
     currency: [
       {
@@ -16005,9 +16005,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Tanzanian',
     population: 68560157,
-    world_share: 0.844495467987203,
-    gdp: 78779864877.3018,
-    area: 0,
+    world_share: 0.8445212141814318,
+    gdp: 78844405385.2195,
+    area: 947300,
   },
   ua: {
     code: 'UA',
@@ -16057,7 +16057,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Eastern Europe',
     tld: ['.ua', '.укр'],
-    flag: 'https://flagcdn.com/ua.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ua.svg',
     emoji: '🇺🇦',
     currency: [
       {
@@ -16073,9 +16073,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Ukrainian',
     population: 37860221,
-    world_share: 0.46634643866836434,
-    gdp: 190741263731.535,
-    area: 0,
+    world_share: 0.46636065620586814,
+    gdp: 190741262414.705,
+    area: 603550,
   },
   ug: {
     code: 'UG',
@@ -16125,7 +16125,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.ug'],
-    flag: 'https://flagcdn.com/ug.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ug.svg',
     emoji: '🇺🇬',
     currency: [
       {
@@ -16141,9 +16141,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Ugandan',
     population: 50015092,
-    world_share: 0.6160650788031745,
-    gdp: 53651874313.9836,
-    area: 0,
+    world_share: 0.6160838608236562,
+    gdp: 53911907086.1525,
+    area: 241550,
   },
   um: {
     code: 'UM',
@@ -16189,11 +16189,11 @@ const countries: Record<string, Country> = {
       vnm: 'Các tiểu đảo xa của Hoa Kỳ',
       zho: '美国本土外小岛屿',
     },
-    capital: 'Washington DC',
+    capital: null,
     continent: 'Americas',
     subregion: 'North America',
     tld: ['.us'],
-    flag: 'https://flagcdn.com/um.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/um.svg',
     emoji: '🇺🇲',
     currency: [
       {
@@ -16204,7 +16204,7 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-11:00', 'UTC-10:00', 'UTC+12:00'],
-    phone_code: '+268',
+    phone_code: '+1',
     latlng: [19.3, 166.633333],
     drives_on: 'right',
     demonym: 'American Islander',
@@ -16261,7 +16261,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'North America',
     tld: ['.us'],
-    flag: 'https://flagcdn.com/us.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/us.svg',
     emoji: '🇺🇸',
     currency: [
       {
@@ -16284,14 +16284,14 @@ const countries: Record<string, Country> = {
       'UTC+10:00',
       'UTC+12:00',
     ],
-    phone_code: '+1201',
+    phone_code: '+1',
     latlng: [38, -97],
     drives_on: 'right',
     demonym: 'American',
     population: 340110988,
-    world_share: 4.189345540422989,
-    gdp: 29184890000000,
-    area: 0,
+    world_share: 4.189473261302572,
+    gdp: 28750956130731.2,
+    area: 9831510,
   },
   uy: {
     code: 'UY',
@@ -16341,7 +16341,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'South America',
     tld: ['.uy'],
-    flag: 'https://flagcdn.com/uy.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/uy.svg',
     emoji: '🇺🇾',
     currency: [
       {
@@ -16357,9 +16357,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Uruguayan',
     population: 3386588,
-    world_share: 0.04171458093276895,
+    world_share: 0.04171585268820588,
     gdp: 80961511073.5797,
-    area: 0,
+    area: 176220,
   },
   uz: {
     code: 'UZ',
@@ -16409,7 +16409,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Central Asia',
     tld: ['.uz'],
-    flag: 'https://flagcdn.com/uz.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/uz.svg',
     emoji: '🇺🇿',
     currency: [
       {
@@ -16425,9 +16425,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Uzbekistani',
     population: 36361859,
-    world_share: 0.4478902394154332,
+    world_share: 0.44790389427745947,
     gdp: 114965293466.611,
-    area: 0,
+    area: 448920,
   },
   va: {
     code: 'VA',
@@ -16477,7 +16477,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southern Europe',
     tld: ['.va'],
-    flag: 'https://flagcdn.com/va.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/va.svg',
     emoji: '🇻🇦',
     currency: [
       {
@@ -16488,7 +16488,7 @@ const countries: Record<string, Country> = {
     ],
     languages: ['Italian', 'Latin'],
     timezones: ['UTC+01:00'],
-    phone_code: '+3906698',
+    phone_code: '+379',
     latlng: [41.9, 12.45],
     drives_on: 'right',
     demonym: 'Vatican',
@@ -16545,7 +16545,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.vc'],
-    flag: 'https://flagcdn.com/vc.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/vc.svg',
     emoji: '🇻🇨',
     currency: [
       {
@@ -16556,14 +16556,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1784',
+    phone_code: '+1',
     latlng: [13.25, -61.2],
     drives_on: 'left',
     demonym: 'Saint Vincentian',
     population: 100616,
-    world_share: 0.0012393459951820184,
+    world_share: 0.0012393837792127422,
     gdp: 1157207407.40741,
-    area: 0,
+    area: 390,
   },
   ve: {
     code: 'VE',
@@ -16613,7 +16613,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'South America',
     tld: ['.ve'],
-    flag: 'https://flagcdn.com/ve.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ve.svg',
     emoji: '🇻🇪',
     currency: [
       {
@@ -16629,9 +16629,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Venezuelan',
     population: 28405543,
-    world_share: 0.3498876516460664,
-    gdp: 0,
-    area: 0,
+    world_share: 0.34989831869613236,
+    gdp: 119802963257.783,
+    area: 912050,
   },
   vg: {
     code: 'VG',
@@ -16681,7 +16681,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.vg'],
-    flag: 'https://flagcdn.com/vg.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/vg.svg',
     emoji: '🇻🇬',
     currency: [
       {
@@ -16692,14 +16692,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1284',
+    phone_code: '+1',
     latlng: [18.431383, -64.62305],
     drives_on: 'left',
     demonym: 'Virgin Islander',
     population: 39471,
-    world_share: 0.00048618734372097325,
-    gdp: 0,
-    area: 0,
+    world_share: 0.00048620216614958013,
+    gdp: null,
+    area: 150,
   },
   vi: {
     code: 'VI',
@@ -16749,7 +16749,7 @@ const countries: Record<string, Country> = {
     continent: 'Americas',
     subregion: 'Caribbean',
     tld: ['.vi'],
-    flag: 'https://flagcdn.com/vi.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/vi.svg',
     emoji: '🇻🇮',
     currency: [
       {
@@ -16760,14 +16760,14 @@ const countries: Record<string, Country> = {
     ],
     languages: ['English'],
     timezones: ['UTC-04:00'],
-    phone_code: '+1340',
+    phone_code: '+1',
     latlng: [18.35, -64.933333],
     drives_on: 'right',
     demonym: 'Virgin Islander',
     population: 104377,
-    world_share: 0.001285672427239341,
-    gdp: 0,
-    area: 0,
+    world_share: 0.0012857116236273396,
+    gdp: 4672000000,
+    area: 350,
   },
   vn: {
     code: 'VN',
@@ -16817,7 +16817,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'South-Eastern Asia',
     tld: ['.vn'],
-    flag: 'https://flagcdn.com/vn.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/vn.svg',
     emoji: '🇻🇳',
     currency: [
       {
@@ -16833,9 +16833,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Vietnamese',
     population: 100987686,
-    world_share: 1.2439242685735785,
+    world_share: 1.2439621921824535,
     gdp: 476388230307.175,
-    area: 0,
+    area: 331338.31,
   },
   vu: {
     code: 'VU',
@@ -16885,7 +16885,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Melanesia',
     tld: ['.vu'],
-    flag: 'https://flagcdn.com/vu.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/vu.svg',
     emoji: '🇻🇺',
     currency: [
       {
@@ -16901,9 +16901,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Ni-Vanuatu',
     population: 327777,
-    world_share: 0.004037420611659939,
-    gdp: 1161251868.03498,
-    area: 0,
+    world_share: 0.004037543700793264,
+    gdp: 1117972034.22642,
+    area: 12190,
   },
   wf: {
     code: 'WF',
@@ -16953,7 +16953,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Polynesia',
     tld: ['.wf'],
-    flag: 'https://flagcdn.com/wf.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/wf.svg',
     emoji: '🇼🇫',
     currency: [
       {
@@ -17021,7 +17021,7 @@ const countries: Record<string, Country> = {
     continent: 'Oceania',
     subregion: 'Polynesia',
     tld: ['.ws'],
-    flag: 'https://flagcdn.com/ws.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ws.svg',
     emoji: '🇼🇸',
     currency: [
       {
@@ -17037,9 +17037,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Samoan',
     population: 218019,
-    world_share: 0.002685467266871953,
-    gdp: 1068025243.63929,
-    area: 0,
+    world_share: 0.0026855491389061667,
+    gdp: 1175749785.65113,
+    area: 2840,
   },
   xk: {
     code: 'XK',
@@ -17089,7 +17089,7 @@ const countries: Record<string, Country> = {
     continent: 'Europe',
     subregion: 'Southeast Europe',
     tld: [],
-    flag: 'https://flagcdn.com/xk.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/xk.svg',
     emoji: '🇽🇰',
     currency: [
       {
@@ -17104,10 +17104,10 @@ const countries: Record<string, Country> = {
     latlng: [42.666667, 21.166667],
     drives_on: 'right',
     demonym: 'Kosovar',
-    population: 1527324,
-    world_share: 0.018812941110214886,
-    gdp: 11148602232.663,
-    area: 0,
+    population: 1594353,
+    world_share: 0.01963917514648936,
+    gdp: 11197246322.588,
+    area: null,
   },
   ye: {
     code: 'YE',
@@ -17157,7 +17157,7 @@ const countries: Record<string, Country> = {
     continent: 'Asia',
     subregion: 'Western Asia',
     tld: ['.ye'],
-    flag: 'https://flagcdn.com/ye.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/ye.svg',
     emoji: '🇾🇪',
     currency: [
       {
@@ -17173,9 +17173,9 @@ const countries: Record<string, Country> = {
     drives_on: 'right',
     demonym: 'Yemeni',
     population: 40583164,
-    world_share: 0.4998865168086095,
-    gdp: 0,
-    area: 0,
+    world_share: 0.49990175688489413,
+    gdp: null,
+    area: 527970,
   },
   yt: {
     code: 'YT',
@@ -17225,7 +17225,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.yt'],
-    flag: 'https://flagcdn.com/yt.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/yt.svg',
     emoji: '🇾🇹',
     currency: [
       {
@@ -17293,7 +17293,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Southern Africa',
     tld: ['.za'],
-    flag: 'https://flagcdn.com/za.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/za.svg',
     emoji: '🇿🇦',
     currency: [
       {
@@ -17307,7 +17307,7 @@ const countries: Record<string, Country> = {
       'English',
       'Southern Ndebele',
       'Northern Sotho',
-      'Southern Sotho',
+      'Sotho',
       'Swazi',
       'Tswana',
       'Tsonga',
@@ -17321,9 +17321,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'South African',
     population: 64007187,
-    world_share: 0.7884138792171875,
-    gdp: 400260724226.067,
-    area: 0,
+    world_share: 0.7884379156479755,
+    gdp: 401144998373.585,
+    area: 1219090,
   },
   zm: {
     code: 'ZM',
@@ -17373,7 +17373,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Eastern Africa',
     tld: ['.zm'],
-    flag: 'https://flagcdn.com/zm.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/zm.svg',
     emoji: '🇿🇲',
     currency: [
       {
@@ -17389,9 +17389,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Zambian',
     population: 21314956,
-    world_share: 0.26254875324084576,
-    gdp: 26325775287.0226,
-    area: 0,
+    world_share: 0.2625567575836181,
+    gdp: 25303185342.2511,
+    area: 752610,
   },
   zw: {
     code: 'ZW',
@@ -17441,7 +17441,7 @@ const countries: Record<string, Country> = {
     continent: 'Africa',
     subregion: 'Southern Africa',
     tld: ['.zw'],
-    flag: 'https://flagcdn.com/zw.svg',
+    flag: 'https://flags.restcountries.com/v5/svg/zw.svg',
     emoji: '🇿🇼',
     currency: [
       {
@@ -17451,16 +17451,16 @@ const countries: Record<string, Country> = {
       },
     ],
     languages: [
-      'Chibarwe',
+      'Barwe',
       'English',
       'Kalanga',
-      'Khoisan',
+      'Khoisan languages',
       'Ndau',
       'Northern Ndebele',
-      'Chewa',
+      'Chichewa',
       'Shona',
       'Sotho',
-      'Tonga',
+      'Tonga (Zambia)',
       'Tswana',
       'Tsonga',
       'Venda',
@@ -17473,9 +17473,9 @@ const countries: Record<string, Country> = {
     drives_on: 'left',
     demonym: 'Zimbabwean',
     population: 16634373,
-    world_share: 0.20489528067021046,
-    gdp: 44187704410.1191,
-    area: 0,
+    world_share: 0.20490152732740718,
+    gdp: 41539411516.4448,
+    area: 390760,
   },
 };
 export default countries;
