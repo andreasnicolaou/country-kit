@@ -1,6 +1,6 @@
 {
   "name": "@andreasnicolaou/country-kit",
-  "version": "2.2.1",
+  "version": "2.3.0",
   "description": "A comprehensive package for working with country data. Includes ISO codes, names in multiple languages, capitals, currencies, continents and more.",
   "main": "dist/index.js",
   "private": false,
@@ -17,7 +17,21 @@
     "test:coverage": "jest --coverage",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "lint": "eslint --fix"
+    "lint": "eslint --fix",
+    "lint:check": "eslint .",
+    "test:bundle": "bundlewatch"
+  },
+  "bundlewatch": {
+    "files": [
+      {
+        "path": "dist/countries.js",
+        "maxSize": "125kB"
+      },
+      {
+        "path": "dist/index.js",
+        "maxSize": "1kB"
+      }
+    ]
   },
   "repository": {
     "type": "git",
@@ -57,22 +71,23 @@
     ]
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3.3.7",
     "@eslint/js": "^10.0.1",
-    "@eslint/eslintrc": "^3.3.5",
     "@types/jest": "^30.0.0",
-    "@types/node": "^26.1.2",
-    "@typescript-eslint/eslint-plugin": "^8.65.0",
-    "@typescript-eslint/parser": "^8.65.0",
-    "eslint": "^10.2.1",
+    "@types/node": "^26.6.5",
+    "@typescript-eslint/eslint-plugin": "^8.72.1",
+    "@typescript-eslint/parser": "^8.72.1",
+    "bundlewatch": "^1.1.0",
     "cross-env": "^10.1.0",
-    "jest-junit": "^17.0.0",
+    "eslint": "^10.13.0",
     "eslint-config-prettier": "^10.1.8",
-    "eslint-plugin-prettier": "^5.5.6",
+    "eslint-plugin-prettier": "^5.5.7",
+    "jest": "^30.5.2",
+    "jest-junit": "^17.0.0",
+    "prettier": "3.9.10",
     "prettier-plugin-organize-imports": "^4.3.0",
-    "jest": "^30.3.0",
-    "prettier": "3.8.3",
-    "terser": "^5.49.0",
-    "ts-jest": "^29.4.11",
+    "terser": "^5.51.2",
+    "ts-jest": "^29.4.15",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   }
